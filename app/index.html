@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="de" ng-app="poeServer">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Poe</title>
+
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap-theme.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+
+</head>
+
+<body>
+<div>
+    <nav role="navigation" class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="#charlist" class="navbar-brand">PoE Server Info</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li>
+                    <a href="#charlist">Charaktere</a>
+                </li>
+                <li>
+                    <a href="#itemsearch">Suche</a>
+                </li>
+                <li>
+                    <a href="#stash">Stash</a>
+                </li>
+            </ul>
+            <div ng-controller="serverCtrl as vm">
+                <form role="search" class="navbar-search docs-search navbar-right" ng-submit="vm.getChars()">
+                    <div class="form-group">
+                        <input type="text" placeholder="Session Id" class="form-control" ng-model="vm.sessionid">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </nav>
+
+    <div ng-view></div>
+
+    <!-- Libs -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script>
+    <script src="bower_components/lodash/lodash.js"></script>
+
+    <!-- App files -->
+    <script src="scripts/modules/app.js"></script>
+    <script src="scripts/modules/components/components.module.js"></script>
+    <script src="scripts/modules/components/charlist/charlist.module.js"></script>
+    <script src="scripts/modules/components/charlist/charListCtrl.js"></script>
+    <script src="scripts/modules/components/itemsearch/itemsearch.module.js"></script>
+    <script src="scripts/modules/components/itemsearch/itemsearchCtrl.js"></script>
+    <script src="scripts/modules/core/core.module.js"></script>
+    <script src="scripts/modules/core/data/data.module.js"></script>
+    <script src="scripts/modules/core/data/poemodel.js"></script>
+    <script src="scripts/modules/core/serverCtrl.js"></script>
+    <script src="scripts/modules/components/charlist/charListCtrl.js"></script>
+
+    <!-- Routing -->
+    <script src="scripts/_configs/routes.config.js"></script>
+</div>
+
+</body>
+
+</html>

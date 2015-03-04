@@ -1,0 +1,71 @@
+ul {
+    list-style-type: none;
+}
+
+.noindent{
+    margin-left: -40px;
+}
+
+.search {
+    float: left;
+    width: 500px;
+}
+
+
+.str {
+    color: red;
+}
+.dex {
+    color: green;
+}
+.int {
+    color: blue;
+}
+
+.gem {
+    background-color: #ccc;
+    margin: 2px;
+    padding: 0px 2px;
+}
+
+.quality{
+	background-color: #222;
+    margin: 2px;
+    padding: 2px;	
+}
+
+.standard{
+    color:#fff;
+}
+.magic{
+    color:#06c;
+}
+.rare{
+    color:#ff6;
+}
+.unique{
+    color:#FFAC30;
+}
+
+.item{
+    background-color: #eee;
+    margin: 2px 0px;
+}
+.bottom{
+    border-bottom: 1px solid #ccc;
+}
+.corrupted{
+    color : red;
+}
+
+.tooltip{
+    box-shadow: 0 1px 1px #ccc;
+    border-radius:3px;
+    width: 290px;
+    padding: 10px;
+
+    position: absolute;
+    left:50%;
+    margin-left:-150px;
+    top: 80px;
+}

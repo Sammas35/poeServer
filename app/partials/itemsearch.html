@@ -1,0 +1,21 @@
+<div class="search">
+    <input type="text" ng-model="search"></input>
+    {{vm.poemodel.searchresult.length}}
+    <ul>
+        <li ng-repeat="char in vm.poemodel.searchresult | filter:vm.searchInChar(search)| orderBy:['char.name']">
+            <a data-toggle="collapse" data-parent="#charmain"
+               href="#{{char.char.name}}">{{char.char.name}}</a>
+            <ul>
+                <li style="margin-left:10px;" ng-repeat="item in char.items | filter:vm.searchInItem(search)">
+                    <span>{{item.name}} </span>
+                    <ul>
+                        <li style="margin-left:10px;"
+                            ng-class="{'str':socks.colour ==='S', 'dex' : socks.colour==='D', 'int' :socks.colour ==='I'}"
+                            ng-repeat="socks in item.socketedItems">{{socks.typeLine}}
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+    </ul>
+</div>
