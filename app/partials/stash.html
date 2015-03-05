@@ -1,1 +1,9 @@
-<h1>Stash</h1>
+<h2>Inventar</h2>
+
+{{vm.poemodel.model.stashs.length}}
+
+<ul>
+    <li ng-repeat="stash in vm.poemodel.model.stashs">
+        <span>{{stash.items[0].inventoryId}} {{stash.loadStatus}}</span>
+    </li>
+</ul>

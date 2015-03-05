@@ -15,7 +15,9 @@
                 controllerAs: 'vm'
             })
             .when('/stash', {
-                templateUrl: 'partials/stash.html'
+                templateUrl: 'partials/stash.html',
+                controller: 'stashCtrl',
+                controllerAs: 'vm'
             })
             .otherwise({
                 redirectTo: '/charlist'

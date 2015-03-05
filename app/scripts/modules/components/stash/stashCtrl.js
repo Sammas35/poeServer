@@ -14,6 +14,7 @@
 
         vm.activate = activate;
         vm.title = 'stashCtrl';
+        vm.poemodel = poemodel;
 
         activate();
 

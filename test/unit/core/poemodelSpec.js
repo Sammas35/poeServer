@@ -23,10 +23,10 @@ describe('poemodel', function () {
         });
     });
 
-    describe("getStacks", function () {
+    describe("getStashs", function () {
         it("should be a function", function () {
-            expect(poemodel.getStacks).toBeDefined();
-            expect(angular.isFunction(poemodel.getStacks)).toBe(true);
+            expect(poemodel.getStashs).toBeDefined();
+            expect(angular.isFunction(poemodel.getStashs)).toBe(true);
         });
     });
-})
+});

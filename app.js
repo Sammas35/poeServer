@@ -8,7 +8,6 @@ var poeapi = require('./poeapi.js');
 var server;
 var port = 3000;
 var app = express();
-var io;
 
 app.use(bodyParser.urlencoded({
     extended: false
@@ -16,9 +15,6 @@ app.use(bodyParser.urlencoded({
 
 
 app.set('port', 3000);
-
-
-var characters;
 
 var sessions = {};
 
@@ -53,7 +49,7 @@ app.get('/chars/:sessionId/:name/items/', function(req, res) {
         });
 });
 
-app.get('/stash/:sessionId/:stashIndex/', function(req, res) {
+app.get('/stashs/:sessionId/:stashIndex/', function(req, res) {
     var sessionId = req.params.sessionId;
     var stashIndex = req.params.stashIndex;
 

@@ -36,7 +36,7 @@
                 </li>
             </ul>
             <div ng-controller="serverCtrl as vm">
-                <form role="search" class="navbar-search docs-search navbar-right" ng-submit="vm.getChars()">
+                <form role="search" class="navbar-search docs-search navbar-right" ng-submit="vm.loadData()">
                     <div class="form-group">
                         <input type="text" placeholder="Session Id" class="form-control" ng-model="vm.sessionid">
                     </div>
@@ -61,6 +61,8 @@
     <script src="scripts/modules/components/charlist/charListCtrl.js"></script>
     <script src="scripts/modules/components/itemsearch/itemsearch.module.js"></script>
     <script src="scripts/modules/components/itemsearch/itemsearchCtrl.js"></script>
+    <script src="scripts/modules/components/stash/stash.module.js"></script>
+    <script src="scripts/modules/components/stash/stashCtrl.js"></script>
     <script src="scripts/modules/core/core.module.js"></script>
     <script src="scripts/modules/core/data/data.module.js"></script>
     <script src="scripts/modules/core/data/poemodel.js"></script>

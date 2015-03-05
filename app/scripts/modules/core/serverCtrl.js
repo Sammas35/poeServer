@@ -12,8 +12,8 @@
 
         vm.activate = activate;
         vm.title = 'serverCtrl';
-        vm.sessionid = 'aa8b5052865cd63c9d5be692b3ff6d36';
-        vm.getChars = getChars;
+        vm.sessionid = '191d72d590740ff0cba23e86e6d87ffb';
+        vm.loadData = loadData;
 
         activate();
 
@@ -23,9 +23,11 @@
         }
 
 
-        function getChars() {
+        function loadData() {
             console.log('serverCtrl.getChars');
             poemodel.getChars(vm.sessionid);
+            console.log('serverCtrl.getStashs');
+            poemodel.getStashs(vm.sessionid);
         }
     }
 })();

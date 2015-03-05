@@ -1,5 +1,6 @@
+<h2>Suche</h2>
 <div class="search">
-    <input type="text" ng-model="search"></input>
+    <input type="text" ng-model="search" title="search" placeholder="Suchen">
     {{vm.poemodel.searchresult.length}}
     <ul>
         <li ng-repeat="char in vm.poemodel.searchresult | filter:vm.searchInChar(search)| orderBy:['char.name']">

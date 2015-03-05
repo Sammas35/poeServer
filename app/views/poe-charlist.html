@@ -1,5 +1,5 @@
 <ul>
-    <li ng-repeat="char in vm.poemodel.model | orderBy:'name'">
+    <li ng-repeat="char in vm.poemodel.model.chars | orderBy:'name'">
         <div>
             <a href="" data-toggle="collapse" data-parent="#charmain" ng-click="vm.poemodel.currentChar=char">{{char.name}}</a>,
             {{char.class}} ({{char.level}})

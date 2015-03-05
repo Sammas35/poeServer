@@ -1,63 +1,11 @@
+<h2>Liste der Charaktere</h2>
 <div class="container">
     <div class="row">
         <div class="col-lg-3">
-            <poe-char-list/>
+            <poe-char-list></poe-char-list>
         </div>
         <div class="col-lg-9">
-            <poe-char-detail/>
+            <poe-char-detail></poe-char-detail>
         </div>
     </div>
 </div>
-
-
-<!--<div class="container" id="charmain">-->
-    <!--<div class="row">-->
-        <!--<div class="col-lg-9">-->
-            <!--<ul>-->
-                <!--<li ng-repeat="char in model | orderBy:'name'">-->
-                    <!--<div>-->
-                        <!--<a data-toggle="collapse" data-parent="#charmain" href="#{{char.name}}">{{char.name}}</a>,-->
-                        <!--{{char.class}} ({{char.level}})-->
-                        <!--<span ng-show="char.loadStatus != 'done'">{{char.loadStatus}} </span>-->
-                        <!--<span ng-show="char.loadStatus === 'done'"> {{(char.itemdata.items).length}} items</span>-->
-                    <!--</div>-->
-                    <!--<div id="{{char.name}}" class="panel-collapse collapse">-->
-                        <!--<ul>-->
-                            <!--<li ng-repeat="item in char.itemdata.items | filter:noInventory | filter:noFlask">-->
-                                <!--<div class="row item">-->
-                                    <!--<div class="col-xs-6">-->
-                                        <!--<span class="quality"-->
-                                              <!--ng-class="{standard: item.frameType==0, magic: item.frameType==1, rare: item.frameType==2, unique: item.frameType==3}">{{item.name || item.typeLine }} ({{item.inventoryId}})</span>-->
-                                        <!--<br> Quality {{getQuality(item)}}-->
-                                        <!--<span ng-repeat="def in getDefences(item)">-->
-                                            <!--<br/>{{def}}-->
-                                        <!--</span>-->
-                                        <!--<br>{{getRequirements(item) | join }}-->
-                                        <!--<div class="bottom"></div>-->
-                                        <!--<div ng-repeat="imp in getImplicit(item)">-->
-                                            <!--{{imp}}-->
-                                        <!--</div>-->
-                                        <!--<div class="bottom"></div>-->
-                                        <!--<div ng-repeat="exp in getExplicit(item)">-->
-                                            <!--{{exp}}-->
-                                        <!--</div>-->
-                                        <!--<div class="corrupted">{{getCorrupted(item)}}</div>-->
-                                    <!--</div>-->
-                                    <!--<div class="col-xs-6">-->
-                                        <!--<ul>-->
-                                            <!--<li class="gem"-->
-                                                <!--ng-class="(gem.colour ==='S')?'str': (gem.colour==='D' ? 'dex' : 'int')"-->
-                                                <!--ng-repeat="gem in item.socketedItems">-->
-                                                <!--{{gem.typeLine}}-->
-                                            <!--</li>-->
-                                        <!--</ul>-->
-                                    <!--</div>-->
-                                <!--</div>-->
-                            <!--</li>-->
-                        <!--</ul>-->
-                    <!--</div>-->
-                <!--</li>-->
-            <!--</ul>-->
-        <!--</div>-->
-    <!--</div>-->
-<!--</div>-->
