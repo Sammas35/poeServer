@@ -14,6 +14,7 @@ module.exports = function(config) {
             'app/bower_components/angular-route/angular-route.js',
             'app/bower_components/angular-mocks/angular-mocks.js',
             'app/scripts/modules/app.js',
+            'app/scripts/modules/core/data/Item.js',
             'app/scripts/modules/**/*.module.js',
             'app/scripts/modules/**/*.js',
             'test/unit/**/*Spec.js'
@@ -33,7 +34,7 @@ module.exports = function(config) {
 
         autoWatch: true,
 
-        browsers: ['PhantomJS', 'Chrome'],
+        browsers: ['PhantomJS'], //, 'Chrome'],
 
         plugins: [
             'karma-chrome-launcher',

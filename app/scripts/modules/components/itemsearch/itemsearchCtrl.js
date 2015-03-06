@@ -11,9 +11,17 @@
 
         vm.poemodel = poemodel;
 
-        vm.search = "Fire";
+        vm.name = '';
 
-        vm.searchInSockets = function (search) {
+        vm.search = search;
+        vm.searchInSockets = searchInSockets;
+        vm.searchInItem = searchInItem;
+        vm.searchInChar = searchInChar;
+        vm.byName = byName;
+
+        vm.result = [];
+
+        function searchInSockets(search) {
             return function (sock) {
                 var regex = new RegExp(search, "i");
 
@@ -27,9 +35,9 @@
 
                 return false;
             };
-        };
+        }
 
-        vm.searchInItem = function (search) {
+        function searchInItem(search) {
             return function (item) {
                 var regex = new RegExp(search, "i");
 
@@ -42,9 +50,9 @@
                 }
                 return false;
             };
-        };
+        }
 
-        vm.searchInChar = function (search) {
+        function searchInChar(search) {
             return function (char) {
                 if (!search) {
                     return false;
@@ -55,6 +63,43 @@
                 }
                 return false;
             };
-        };
+        }
+
+        function byName(search) {
+            return function (item) {
+                var regex = new RegExp(search, "i");
+                if (!search) {
+                    return false;
+                }
+
+                if (regex.test(item.getName())) {
+                    return true;
+                }
+                return false;
+            };
+        }
+
+        function search() {
+            vm.result = getItemList();
+            //vm.result = _.chain(getItemList())
+            //    .filter(byName(vm.name))
+            //    .value();
+        }
+
+
+        function getItemList() {
+            var result = [];
+            _.forEach(vm.poemodel.model.chars, function (char) {
+                    _.forEach(char.items, function (item) {
+                        result.push(new Item(item));
+                        _.forEach(item.socketedItems, function (gem) {
+                            result.push(new Item(gem));
+                        });
+                    });
+                }
+            );
+
+            return result;
+        }
     }
 })();
