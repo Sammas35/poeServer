@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('poeServer.components.stash')
+        .module('poeServer')
         .controller('stashCtrl', stashCtrl);
 
     stashCtrl.$inject = ['poemodel'];

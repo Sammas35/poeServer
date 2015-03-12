@@ -3,8 +3,7 @@
 describe('stashCtrl', function () {
     var stashCtrl;
 
-    beforeEach(module('poeServer.components.stash'));
-    beforeEach(module('poeServer.core.data'));
+    beforeEach(module('poeServer'));
 
     beforeEach(inject(function ($controller) {
         stashCtrl = $controller('stashCtrl');

@@ -69,3 +69,40 @@ ul {
     margin-left:-150px;
     top: 80px;
 }
+
+.left{
+    float:left;
+}
+.right{
+    float:right;
+}
+
+.label{
+    width:150px;
+    margin-top: 6px;
+    color:#000000;
+    display:block;
+    float:left;
+}
+.control{
+    width:40px;
+    display:block;
+    float:left;
+}
+.controls{
+    width:100px;
+    display:block;
+    float:left;
+}
+
+.entity{
+    margin:4px;
+    float:left;
+    width:300px;
+    display:block;
+}
+
+.result{
+    width:100%;
+    float:left;
+}

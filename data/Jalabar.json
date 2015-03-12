@@ -156,7 +156,7 @@
               "name": "Level",
               "values": [
                 [
-                  "18",
+                  "19",
                   0
                 ]
               ],
@@ -168,12 +168,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "88224844/89834713",
+                  "8522822/146782704",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.982079684734
+              "progress": 0.0580642111599
             }
           ],
           "requirements": [
@@ -181,7 +181,7 @@
               "name": "Level",
               "values": [
                 [
-                  "64",
+                  "66",
                   0
                 ]
               ],
@@ -191,7 +191,7 @@
               "name": "Int",
               "values": [
                 [
-                  "102",
+                  "105",
                   0
                 ]
               ],
@@ -199,7 +199,7 @@
             }
           ],
           "explicitMods": [
-            "16% reduced Curse Duration",
+            "14% reduced Curse Duration",
             "Supported Skills apply supported Curses on Hit",
             "You cannot Cast Supported Curses"
           ],
@@ -283,12 +283,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "7036187/146938899",
+                  "17189948/146938899",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.0478851236403
+              "progress": 0.11698704958
             }
           ],
           "requirements": [
@@ -379,12 +379,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "13363670/146938899",
+                  "23517431/146938899",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.0909471213818
+              "progress": 0.160049065948
             }
           ],
           "requirements": [
@@ -475,12 +475,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "86769289/146938899",
+                  "96923050/146938899",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.590512752533
+              "progress": 0.659614622593
             }
           ],
           "requirements": [
@@ -582,12 +582,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "4141972/89834713",
+                  "14295733/89834713",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.0461065880954
+              "progress": 0.159133732319
             }
           ],
           "requirements": [
@@ -699,12 +699,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "8553351/50550118",
+                  "18707112/50550118",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.169205352664
+              "progress": 0.370070576668
             }
           ],
           "requirements": [
@@ -902,39 +902,6 @@
       "x": 1,
       "y": 0,
       "inventoryId": "Flask",
-      "socketedItems": []
-    },
-    {
-      "verified": false,
-      "w": 1,
-      "h": 1,
-      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Currency/CurrencyIdentification.png?scale=1&stackSize=13&w=1&h=1&v=1b9b38c45be95c59d8900f91b2afd58b3",
-      "support": true,
-      "league": "Standard",
-      "sockets": [],
-      "name": "",
-      "typeLine": "Scroll of Wisdom",
-      "identified": true,
-      "corrupted": false,
-      "lockedToCharacter": false,
-      "properties": [
-        {
-          "name": "Stack Size",
-          "values": [
-            [
-              "13/40",
-              0
-            ]
-          ],
-          "displayMode": 0
-        }
-      ],
-      "explicitMods": ["Identifies an item"],
-      "descrText": "Right click this item then left click an unidentified item to apply it.\nShift click to unstack.",
-      "frameType": 5,
-      "x": 1,
-      "y": 4,
-      "inventoryId": "MainInventory",
       "socketedItems": []
     },
     {
@@ -1330,12 +1297,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "32046176/146782704",
+                  "42199937/146782704",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.218323931098
+              "progress": 0.287499368191
             }
           ],
           "requirements": [
@@ -1675,12 +1642,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "92632839/146782704",
+                  "102786600/146782704",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.631088256836
+              "progress": 0.700263679028
             }
           ],
           "requirements": [
@@ -1766,12 +1733,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "99728915/146938899",
+                  "109882676/146938899",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.678710103035
+              "progress": 0.7478120327
             }
           ],
           "requirements": [
@@ -1850,12 +1817,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "93320670/146782704",
+                  "103474431/146782704",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.635774314404
+              "progress": 0.704949736595
             }
           ],
           "requirements": [
@@ -1934,12 +1901,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "93727493/146266188",
+                  "103881254/146266188",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.640800833702
+              "progress": 0.710220575333
             }
           ],
           "requirements": [
@@ -2055,12 +2022,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "73247075/147034823",
+                  "83400836/147034823",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.498161405325
+              "progress": 0.567218244076
             }
           ],
           "requirements": [
@@ -2153,12 +2120,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "92662920/146266188",
+                  "102816681/146266188",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.633522450924
+              "progress": 0.702942192554
             }
           ],
           "requirements": [
@@ -2550,7 +2517,40 @@
       "verified": false,
       "w": 1,
       "h": 1,
-      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Currency/CurrencyAddModToMagic.png?scale=1&stackSize=13&w=1&h=1&v=97e63b85807f2419f4208482fd0b48593",
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Currency/CurrencyIdentification.png?scale=1&stackSize=40&w=1&h=1&v=1b9b38c45be95c59d8900f91b2afd58b3",
+      "support": true,
+      "league": "Standard",
+      "sockets": [],
+      "name": "",
+      "typeLine": "Scroll of Wisdom",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "40/40",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": ["Identifies an item"],
+      "descrText": "Right click this item then left click an unidentified item to apply it.\nShift click to unstack.",
+      "frameType": 5,
+      "x": 1,
+      "y": 4,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Currency/CurrencyAddModToMagic.png?scale=1&stackSize=17&w=1&h=1&v=97e63b85807f2419f4208482fd0b48593",
       "support": true,
       "league": "Standard",
       "sockets": [],
@@ -2564,7 +2564,7 @@
           "name": "Stack Size",
           "values": [
             [
-              "13/30",
+              "17/30",
               0
             ]
           ],
@@ -2583,40 +2583,7 @@
       "verified": false,
       "w": 1,
       "h": 1,
-      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Currency/CurrencyUpgradeRandomly.png?scale=1&stackSize=1&w=1&h=1&v=e4049939b9cd61291562f94364ee0f003",
-      "support": true,
-      "league": "Standard",
-      "sockets": [],
-      "name": "",
-      "typeLine": "Orb of Chance",
-      "identified": true,
-      "corrupted": false,
-      "lockedToCharacter": false,
-      "properties": [
-        {
-          "name": "Stack Size",
-          "values": [
-            [
-              "1/20",
-              0
-            ]
-          ],
-          "displayMode": 0
-        }
-      ],
-      "explicitMods": ["Upgrades a normal item to a random rarity"],
-      "descrText": "Right click this item then left click a normal item to apply it.",
-      "frameType": 5,
-      "x": 4,
-      "y": 4,
-      "inventoryId": "MainInventory",
-      "socketedItems": []
-    },
-    {
-      "verified": false,
-      "w": 1,
-      "h": 1,
-      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Currency/CurrencyPortal.png?scale=1&stackSize=39&w=1&h=1&v=728696ea10d4fb1e789039debc5d8c3c3",
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Currency/CurrencyPortal.png?scale=1&stackSize=40&w=1&h=1&v=728696ea10d4fb1e789039debc5d8c3c3",
       "support": true,
       "league": "Standard",
       "sockets": [],
@@ -2630,7 +2597,7 @@
           "name": "Stack Size",
           "values": [
             [
-              "39/40",
+              "40/40",
               0
             ]
           ],
@@ -2840,12 +2807,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "27588939/147034823",
+                  "37742700/147034823",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.187635421753
+              "progress": 0.256692260504
             }
           ],
           "requirements": [
@@ -2978,12 +2945,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "26620498/147034823",
+                  "36774259/147034823",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.181048944592
+              "progress": 0.250105798244
             }
           ],
           "requirements": [
@@ -3106,12 +3073,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "78861313/147034823",
+                  "89015074/147034823",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.536344468594
+              "progress": 0.605401337147
             }
           ],
           "requirements": [
@@ -3160,6 +3127,39 @@
           "socketedItems": []
         }
       ]
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Currency/CurrencyRerollMagic.png?scale=1&stackSize=19&w=1&h=1&v=6d9520174f6643e502da336e76b730d33",
+      "support": true,
+      "league": "Standard",
+      "sockets": [],
+      "name": "",
+      "typeLine": "Orb of Alteration",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "19/20",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": ["Reforges a magic item with new random properties"],
+      "descrText": "Right click this item then left click a magic item to apply it.\nShift click to unstack.",
+      "frameType": 5,
+      "x": 4,
+      "y": 4,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
     },
     {
       "verified": false,
@@ -3375,12 +3375,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "42389421/147034823",
+                  "52543182/147034823",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.288295120001
+              "progress": 0.357351988554
             }
           ],
           "requirements": [
@@ -3502,12 +3502,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "33386125/147034823",
+                  "43539886/147034823",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.22706271708
+              "progress": 0.296119570732
             }
           ],
           "requirements": [
@@ -3629,12 +3629,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "28187301/147034823",
+                  "38341062/147034823",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.191704928875
+              "progress": 0.260761797428
             }
           ],
           "requirements": [
@@ -3864,6 +3864,7 @@
         "+12% to Chaos Resistance",
         "14% increased Stun Recovery"
       ],
+      "craftedMods": ["+51 to maximum Life"],
       "frameType": 2,
       "x": 0,
       "y": 0,
@@ -3933,12 +3934,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "23983999/90043412",
+                  "34137760/90043412",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.26636043191
+              "progress": 0.379125595093
             }
           ],
           "requirements": [
@@ -4038,12 +4039,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "53739357/146266188",
+                  "63893118/146266188",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.367407917976
+              "progress": 0.436827659607
             }
           ],
           "requirements": [
@@ -4123,12 +4124,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "91184497/146266188",
+                  "101338258/146266188",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.623414695263
+              "progress": 0.692834436893
             }
           ],
           "requirements": [
@@ -4341,12 +4342,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "92915859/146782704",
+                  "103069620/146782704",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.63301640749
+              "progress": 0.702191829681
             }
           ],
           "requirements": [
@@ -4446,12 +4447,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "14533920/90043412",
+                  "24687681/90043412",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.161410152912
+              "progress": 0.274175316095
             }
           ],
           "requirements": [
@@ -4544,12 +4545,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "90545448/146782704",
+                  "100699209/146782704",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.616867303848
+              "progress": 0.68604272604
             }
           ],
           "requirements": [
@@ -4625,12 +4626,12 @@
               "name": "Experience",
               "values": [
                 [
-                  "98646931/146266188",
+                  "108800692/146266188",
                   0
                 ]
               ],
               "displayMode": 2,
-              "progress": 0.674434244633
+              "progress": 0.743853986263
             }
           ],
           "requirements": [

@@ -1,32 +1,32 @@
 <h2>Suche</h2>
 <div class="search">
-    <input type="text" ng-model="vm.name"/>
-
-    <button ng-click="vm.search()">Suchen</button>
+    <div class="entity">
+        <div class="label">
+            <label class="right">Name</label>
+        </div>
+        <div class="control">
+            <input type="text" ng-model="vm.name" placeholder="Name"/>
+        </div>
+    </div>
+    <div class="entity">
+        <div class="label">
+            <label class="right">Sockets</label>
+        </div>
+        <div class="controls">
+            <input class="control" type="text" ng-model="vm.sockmin" placeholder="min"/>
+            <input class="control" type="text" ng-model="vm.sockmax" placeholder="max"/>
+        </div>
+    </div>
+    <button class="left" ng-click="vm.search()">Suchen</button>
+    <div class="result">
     <ul>
         <li ng-repeat="item in vm.result
-                          | filter:vm.byName(vm.name)">
-            {{item.getName()}}
+                          | filter:vm.byName(vm.name)
+                          | greaterEqual:'socketCount':vm.sockmin
+                          | lowerEqual:'socketCount':vm.sockmax
+                           ">
+            {{item.getName()}} ({{item.colour}}), {{item.charname}}, {{item.itemname}}
         </li>
     </ul>
-
-    <!--<input type="text" ng-model="search" title="search" placeholder="Suchen">-->
-    <!--{{vm.poemodel.searchresult.length}}-->
-    <!--<ul>-->
-        <!--<li ng-repeat="char in vm.poemodel.searchresult | filter:vm.searchInChar(search)| orderBy:['char.name']">-->
-            <!--<a data-toggle="collapse" data-parent="#charmain"-->
-               <!--href="#{{char.char.name}}">{{char.char.name}}</a>-->
-            <!--<ul>-->
-                <!--<li style="margin-left:10px;" ng-repeat="item in char.items | filter:vm.searchInItem(search)">-->
-                    <!--<span>{{item.name}} </span>-->
-                    <!--<ul>-->
-                        <!--<li style="margin-left:10px;"-->
-                            <!--ng-class="{'str':socks.colour ==='S', 'dex' : socks.colour==='D', 'int' :socks.colour ==='I'}"-->
-                            <!--ng-repeat="socks in item.socketedItems">{{socks.typeLine}}-->
-                        <!--</li>-->
-                    <!--</ul>-->
-                <!--</li>-->
-            <!--</ul>-->
-        <!--</li>-->
-    <!--</ul>-->
+    </div>
 </div>

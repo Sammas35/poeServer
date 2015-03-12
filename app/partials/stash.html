@@ -4,6 +4,6 @@
 
 <ul>
     <li ng-repeat="stash in vm.poemodel.model.stashs">
-        <span>{{stash.items[0].inventoryId}} {{stash.loadStatus}}</span>
+        <span>{{stash.items[0].inventoryId}} {{stash.loadStatus}} {{stash.items.length}}</span>
     </li>
 </ul>

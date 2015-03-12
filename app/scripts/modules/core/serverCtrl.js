@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('poeServer.core')
+        .module('poeServer')
         .controller('serverCtrl', serverCtrl);
 
     /* @ngInject */
@@ -12,7 +12,7 @@
 
         vm.activate = activate;
         vm.title = 'serverCtrl';
-        vm.sessionid = '191d72d590740ff0cba23e86e6d87ffb';
+        vm.sessionid = 'f4a5c9c3b524a0aacd4b4d96ed9ea4cd';
         vm.loadData = loadData;
 
         activate();
@@ -24,9 +24,7 @@
 
 
         function loadData() {
-            console.log('serverCtrl.getChars');
             poemodel.getChars(vm.sessionid);
-            console.log('serverCtrl.getStashs');
             poemodel.getStashs(vm.sessionid);
         }
     }

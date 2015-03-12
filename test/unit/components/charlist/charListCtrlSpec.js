@@ -3,8 +3,7 @@
 describe('charListCtrl', function () {
     var ctrl;
 
-    beforeEach(module('poeServer.components.charlist'));
-    beforeEach(module('poeServer.core.data'));
+    beforeEach(module('poeServer'));
     beforeEach(inject(function ($controller, $window) {
         var _ = $window._;
         ctrl = $controller('charListCtrl', {'_': _});

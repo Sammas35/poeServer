@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('poeServer.components.charlist')
+        .module('poeServer')
         .controller('charListCtrl', charListCtrl);
 
     /* @ngInject */

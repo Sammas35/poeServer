@@ -1,7 +1,7 @@
 (function () {
     'use strict';
 
-    angular.module('poeServer.core.data')
+    angular.module('poeServer')
         .factory('poemodel', ['$http', function ($http) {
         var poemodel = {model: {}};
 
@@ -22,13 +22,13 @@
                             });
                     });
                 });
-        };
+        }
 
         function getStash(sessionId, stashIndex) {
             $http.get("/stashs/" + sessionId + "/" + stashIndex)
                 .then(function (data) {
-                    poemodel.model.stashs[stashIndex] = data;
-                    data.loadStatus = 'done';
+                    poemodel.model.stashs[stashIndex] = data.data;
+                    poemodel.model.stashs[stashIndex].loadStatus = 'done';
                 });
         }
 
@@ -45,7 +45,7 @@
                         getStash(sessionId, i);
                     }
                 });
-        };
+        }
 
         return poemodel;
     }]);

@@ -33,6 +33,29 @@ describe('Item', function () {
                 expect(gem.socketedItems.length).toBe(0);
             });
         });
+        describe("init socketCount", function () {
+            it("should be 0 without sockets", function () {
+                itemJson.sockets = undefined;
+                item = new Item(itemJson);
+                expect(item.socketCount).toBe(0);
+            });
+
+            it("should be 2 without 2 sockets", function () {
+                itemJson.sockets = [{ "group": 0, "attr": "D"}, { "group": 0, "attr": "I"}];
+                item = new Item(itemJson);
+
+                expect(item.socketCount).toBe(2);
+            });
+        });
+        describe("use charname", function () {
+            it("should have empty charname without charname as param", function () {
+                expect(item.charname).toBeUndefined();
+            });
+            it("should have a charname with charname as param", function () {
+                item = new Item(itemJson, 'Hansi');
+                expect(item.charname).toBe('Hansi');
+            });
+        });
     });
 
     describe("getName", function () {

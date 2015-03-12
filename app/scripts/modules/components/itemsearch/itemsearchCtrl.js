@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('poeServer.components.itemsearch')
+        .module('poeServer')
         .controller('itemsearchCtrl', itemsearchCtrl);
 
     /* @ngInject */
@@ -69,7 +69,7 @@
             return function (item) {
                 var regex = new RegExp(search, "i");
                 if (!search) {
-                    return false;
+                    return true;
                 }
 
                 if (regex.test(item.getName())) {
@@ -91,13 +91,19 @@
             var result = [];
             _.forEach(vm.poemodel.model.chars, function (char) {
                     _.forEach(char.items, function (item) {
-                        result.push(new Item(item));
+                        result.push(new Item(item, char.name));
                         _.forEach(item.socketedItems, function (gem) {
-                            result.push(new Item(gem));
+                            result.push(new Item(gem, char.name, item.name));
                         });
                     });
                 }
             );
+
+            _.forEach(vm.poemodel.model.stashs, function (stash) {
+                _.forEach(stash.items, function (item) {
+                    result.push(new Item(item, item.inventoryId))
+                })
+            })
 
             return result;
         }

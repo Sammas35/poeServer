@@ -4,7 +4,7 @@ describe('poemodel', function () {
     var poemodel;
     var $httpBackend;
     beforeEach(function () {
-        module('poeServer.core.data');
+        module('poeServer');
     });
 
     beforeEach(inject(function (_poemodel_, _$httpBackend_) {
