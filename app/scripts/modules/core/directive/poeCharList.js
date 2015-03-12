@@ -3,6 +3,6 @@ angular
     .directive('poeCharList', function () {
     return {
         restrict: 'E',
-        templateUrl: 'views/poe-charlist.html'
+        templateUrl: 'scripts/modules/core/directive/poe-charlist.html'
     };
 });

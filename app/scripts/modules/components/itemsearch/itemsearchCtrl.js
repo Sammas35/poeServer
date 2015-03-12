@@ -12,6 +12,8 @@
         vm.poemodel = poemodel;
 
         vm.name = '';
+        vm.sockmin = undefined;
+        vm.sockmax = undefined;
 
         vm.search = search;
         vm.searchInSockets = searchInSockets;

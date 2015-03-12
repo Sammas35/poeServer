@@ -1,1 +1,2723 @@
-{"items":[{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Currency/CurrencyIdentification.png?scale=1&stackSize=12&w=1&h=1&v=1b9b38c45be95c59d8900f91b2afd58b3","support":true,"league":"Standard","sockets":[],"name":"","typeLine":"Scroll of Wisdom","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Stack Size","values":[["12/40",0]],"displayMode":0}],"explicitMods":["Identifies an item"],"descrText":"Right click this item then left click an unidentified item to apply it.\nShift click to unstack.","frameType":5,"x":1,"y":4,"inventoryId":"MainInventory","socketedItems":[]},{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LightningWarp.png?scale=1&w=1&h=1&v=227de2fadd0ff1c98d6e3edcfacac9473","support":false,"league":"Standard","sockets":[],"name":"","typeLine":"Lightning Warp","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Lightning, Spell, AoE, Duration, Movement","values":[],"displayMode":0},{"name":"Level","values":[["1",0]],"displayMode":0},{"name":"Mana Cost","values":[["22",0]],"displayMode":0},{"name":"Cast Time","values":[["1 sec",0]],"displayMode":0},{"name":"Critical Strike Chance","values":[["5%",0]],"displayMode":0}],"additionalProperties":[{"name":"Experience","values":[["118383/118383",0]],"displayMode":2,"progress":1}],"requirements":[{"name":"Level","values":[["24",0]],"displayMode":0},{"name":"Int","values":[["58",0]],"displayMode":1}],"nextLevelRequirements":[{"name":"Level","values":[["27",0]],"displayMode":0},{"name":"Int","values":[["64",0]],"displayMode":1}],"secDescrText":"Casts a delayed teleport to a target destination. When the teleport occurs, lightning damage is dealt to the area around both where the player was and where they teleported to.","explicitMods":["Deals 3-51 Lightning Damage"],"descrText":"Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.","frameType":4,"x":9,"y":4,"inventoryId":"MainInventory","socketedItems":[]},{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Amulets/Amulet4.png?scale=1&w=1&h=1&v=cc3ec167ca9ea10dfa05b2d55b5dcf623","support":true,"league":"Standard","sockets":[],"name":"","typeLine":"Reinforced Jade Amulet of the Sky","identified":true,"corrupted":false,"lockedToCharacter":false,"requirements":[{"name":"Level","values":[["8",0]],"displayMode":0}],"implicitMods":["+28 to Dexterity"],"explicitMods":["+8 to all Attributes","3% increased Armour"],"frameType":1,"x":0,"y":0,"inventoryId":"Amulet","socketedItems":[]},{"verified":false,"w":2,"h":2,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Armours/Helmets/CrownofThorns.png?scale=1&w=2&h=2&v=4e8c66d75c7741e19a3d4d7a4376f2dc3","support":true,"league":"Standard","sockets":[{"group":0,"attr":"I"},{"group":0,"attr":"S"}],"name":"Crown of Thorns","typeLine":"Vine Circlet","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Energy Shield","values":[["72",1]],"displayMode":0}],"requirements":[{"name":"Level","values":[["19",0]],"displayMode":0},{"name":"Dex","values":[["21",0]],"displayMode":1},{"name":"Int","values":[["30",0]],"displayMode":1}],"explicitMods":["+65 to maximum Energy Shield","Reflects 5 Physical Damage to Melee Attackers","Take 5 Physical Damage when hit by Attacks","Pain Attunement"],"flavourText":["Lift it lightly, don it slow.\r","The spikes point out and in, you know."],"frameType":3,"x":0,"y":0,"inventoryId":"Helm","socketedItems":[{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Gems/AssassinsMark.png?scale=1&w=1&h=1&v=8c4b5e92ec890630d572e4f48d930ca23","support":false,"sockets":[],"name":"","typeLine":"Assassin's Mark","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Curse, Spell, AoE, Duration","values":[],"displayMode":0},{"name":"Level","values":[["1",0]],"displayMode":0},{"name":"Mana Cost","values":[["26",0]],"displayMode":0},{"name":"Cast Time","values":[["0.5 sec",0]],"displayMode":0}],"additionalProperties":[{"name":"Experience","values":[["75910/81983",0]],"displayMode":2,"progress":0.925923645496}],"requirements":[{"name":"Level","values":[["19",0]],"displayMode":0},{"name":"Dex","values":[["21",0]],"displayMode":1},{"name":"Int","values":[["30",0]],"displayMode":1}],"secDescrText":"Curses all targets in an area, making them more vulnerable to Critical Strikes. Killing the cursed targets will grant life and mana, and a chance to gain a power charge.","explicitMods":["Base duration is 6.00 seconds","Cursed enemies have a 20% chance to grant a Power Charge when slain","Cursed enemies have an additional 5% chance to receive a Critical Strike","Cursed enemies take 20% more extra damage from Critical Strikes","Cursed enemies grant 15 Life when Killed","Cursed enemies grant 15 Mana when Killed"],"descrText":"Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.","frameType":4,"socket":0,"colour":"I","socketedItems":[]}]},{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Echo.png?scale=1&w=1&h=1&v=8c687a9247eff1393e4fe35d69838f723","support":true,"league":"Standard","sockets":[],"name":"","typeLine":"Spell Echo","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Spell, Support","values":[],"displayMode":0},{"name":"Level","values":[["1",0]],"displayMode":0},{"name":"Mana Multiplier","values":[["130%",0]],"displayMode":0}],"additionalProperties":[{"name":"Experience","values":[["15602/179320",0]],"displayMode":2,"progress":0.0870064720511}],"requirements":[{"name":"Level","values":[["31",0]],"displayMode":0},{"name":"Int","values":[["52",0]],"displayMode":1}],"explicitMods":["10% less Damage","Supported Spells Repeat an additional time","50% more Cast Speed"],"descrText":"This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.","frameType":4,"x":10,"y":4,"inventoryId":"MainInventory","socketedItems":[]},{"verified":false,"w":2,"h":2,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Armours/Gloves/SadimasTouch.png?scale=1&w=2&h=2&v=cb90ee55ca2ea5dda2bada90614558ff3","support":true,"league":"Standard","sockets":[{"group":0,"attr":"D"},{"group":0,"attr":"D"},{"group":0,"attr":"I"},{"group":0,"attr":"I"}],"name":"Sadima's Touch","typeLine":"Wool Gloves","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Energy Shield","values":[["22",1]],"displayMode":0}],"requirements":[{"name":"Level","values":[["21",0]],"displayMode":0},{"name":"Dex","values":[["37",0]],"displayMode":1},{"name":"Int","values":[["52",0]],"displayMode":1}],"explicitMods":["Adds 4-8 Fire Damage","Adds 1-13 Lightning Damage","+18 to maximum Energy Shield","14% increased Quantity of Items found"],"flavourText":["Wealth unspent is wealth wasted."],"frameType":3,"x":0,"y":0,"inventoryId":"Gloves","socketedItems":[{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Pierce.png?scale=1&w=1&h=1&v=3adf8484c5565e2f4b02dc1db98cd9db3","support":true,"sockets":[],"name":"","typeLine":"Pierce","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Support, Projectile","values":[],"displayMode":0},{"name":"Level","values":[["1",0]],"displayMode":0},{"name":"Mana Multiplier","values":[["110%",0]],"displayMode":0}],"additionalProperties":[{"name":"Experience","values":[["75910/81983",0]],"displayMode":2,"progress":0.925923645496}],"requirements":[{"name":"Level","values":[["19",0]],"displayMode":0},{"name":"Dex","values":[["34",0]],"displayMode":1}],"explicitMods":["40% chance of Projectiles Piercing"],"descrText":"This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.","frameType":4,"socket":0,"colour":"D","socketedItems":[]},{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Fork.png?scale=1&w=1&h=1&v=1c8109cba88e86566f29b68075f08da53","support":true,"sockets":[],"name":"","typeLine":"Fork","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Support, Projectile","values":[],"displayMode":0},{"name":"Level","values":[["4",0]],"displayMode":0},{"name":"Mana Multiplier","values":[["115%",0]],"displayMode":0}],"additionalProperties":[{"name":"Experience","values":[["37116/77012",0]],"displayMode":2,"progress":0.481950879097}],"requirements":[{"name":"Level","values":[["21",0]],"displayMode":0},{"name":"Dex","values":[["37",0]],"displayMode":1}],"explicitMods":["6% increased Projectile Damage","Projectiles Fork","30% less Projectile Damage"],"descrText":"This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.","frameType":4,"socket":1,"colour":"D","socketedItems":[]},{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Spark.png?scale=1&w=1&h=1&v=89236db5fb81772a872247c191efc0a43","support":false,"sockets":[],"name":"","typeLine":"Spark","identified":true,"corrupted":true,"lockedToCharacter":false,"properties":[{"name":"Lightning, Projectile, Spell, Duration","values":[],"displayMode":0},{"name":"Level","values":[["7",0]],"displayMode":0},{"name":"Mana Cost","values":[["11",0]],"displayMode":0},{"name":"Cast Time","values":[["0.65 sec",0]],"displayMode":0},{"name":"Critical Strike Chance","values":[["5%",0]],"displayMode":0},{"name":"Damage Effectiveness","values":[["50%",0]],"displayMode":0}],"additionalProperties":[{"name":"Experience","values":[["56092/150439",0]],"displayMode":2,"progress":0.372855454683}],"requirements":[{"name":"Level","values":[["21",0]],"displayMode":0},{"name":"Int","values":[["52",0]],"displayMode":1}],"secDescrText":"Launches unpredictable sparks that move randomly until they hit an enemy or expire.","explicitMods":["Deals 2-44 Lightning Damage","2 additional Projectiles","Base duration is 1.50 seconds"],"descrText":"Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.","frameType":4,"socket":2,"colour":"I","socketedItems":[]},{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/PowerCharges.png?scale=1&w=1&h=1&v=702591e0dd6407a5ec5b38f74ccc0fff3","support":true,"sockets":[],"name":"","typeLine":"Power Charge On Critical","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Support","values":[],"displayMode":0},{"name":"Level","values":[["1",0]],"displayMode":0},{"name":"Mana Multiplier","values":[["110%",0]],"displayMode":0}],"additionalProperties":[{"name":"Experience","values":[["75910/81983",0]],"displayMode":2,"progress":0.925923645496}],"requirements":[{"name":"Level","values":[["19",0]],"displayMode":0},{"name":"Int","values":[["34",0]],"displayMode":1}],"explicitMods":["30% chance to gain a Power Charge on Critical Strike"],"descrText":"This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.","frameType":4,"socket":3,"colour":"I","socketedItems":[]}]},{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Rings/TopazSapphire.png?scale=1&w=1&h=1&v=b7334698bf04b28f755467f256a3276b3","support":true,"league":"Standard","sockets":[],"name":"","typeLine":"Elreon's Two-Stone Ring","identified":true,"corrupted":false,"lockedToCharacter":false,"requirements":[{"name":"Level","values":[["20",0]],"displayMode":0}],"implicitMods":["+16% to Cold and Lightning Resistances"],"explicitMods":["-8 to Mana Cost of Skills"],"frameType":1,"x":0,"y":0,"inventoryId":"Ring","socketedItems":[]},{"verified":false,"w":1,"h":2,"icon":"http://webcdn.pathofexile.com/gen/image/YTozOntpOjI7YTozOntz/OjE6ImYiO3M6MjU6IkFy/dC8yREl0ZW1zL0ZsYXNr/cy9zcHJpbnQiO3M6Mjoi/c3AiO2Q6MC42MDg1MTky/Njk3NzY4NzYzMTQ4MTQ3/Mjg2MzAxNTM2OTUxMjE0/MDc1MDg4NTAwOTc2NTYy/NTtzOjU6ImxldmVsIjtp/OjE7fWk6MTtpOjQ7aTow/O2k6OTt9/6446837133/Item.png","support":true,"league":"Standard","sockets":[],"name":"","typeLine":"Surgeon's Quicksilver Flask of Adrenaline","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Lasts %0 Seconds","values":[["5",0]],"displayMode":3},{"name":"Consumes %0 of %1 Charges on use","values":[["20",0],["50",0]],"displayMode":3},{"name":"Currently has %0 Charges","values":[["50",0]],"displayMode":3},{"name":"","values":[["40% increased Movement Speed",1]],"displayMode":0}],"requirements":[{"name":"Level","values":[["6",0]],"displayMode":0}],"explicitMods":["21% increased Movement Speed during flask effect","Recharges 1 Charge when you deal a Critical Strike"],"descrText":"Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.","frameType":1,"x":4,"y":0,"inventoryId":"Flask","socketedItems":[]},{"verified":false,"w":1,"h":3,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/LifeSprig.png?scale=1&w=1&h=3&v=880d7682adb3ff4578306f526644abd73","support":true,"league":"Standard","sockets":[{"group":0,"attr":"D"},{"group":1,"attr":"S"},{"group":2,"attr":"D"}],"name":"Lifesprig","typeLine":"Driftwood Wand","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Wand","values":[],"displayMode":0},{"name":"Physical Damage","values":[["3-6",0]],"displayMode":0},{"name":"Critical Strike Chance","values":[["8%",0]],"displayMode":0},{"name":"Attacks per Second","values":[["1.43",0]],"displayMode":0}],"requirements":[{"name":"Level","values":[["10",0]],"displayMode":0},{"name":"Dex","values":[["18",0]],"displayMode":1}],"implicitMods":["8% increased Spell Damage"],"explicitMods":["+1 to Level of Socketed Spell Gems","20% increased Spell Damage","6% increased Cast Speed","+20 to maximum Life","+15 to maximum Mana","Regenerate 6 Life over 1 second for each Spell you Cast"],"flavourText":["From the smallest seeds\r","To the tallest redwoods,\r","Life endures in Wraeclast."],"frameType":3,"x":0,"y":0,"inventoryId":"Weapon","socketedItems":[{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceShield.png?scale=1&w=1&h=1&v=ff757926265cc653abe8e2cbc151931c3","support":false,"sockets":[],"name":"","typeLine":"Arctic Armour","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Cold, Spell, Duration","values":[],"displayMode":0},{"name":"Level","values":[["1",0]],"displayMode":0},{"name":"Mana Reserved","values":[["0",0]],"displayMode":0},{"name":"Cooldown Time","values":[["0.5 sec",0]],"displayMode":0},{"name":"Cast Time","values":[["0.5 sec",0]],"displayMode":0}],"additionalProperties":[{"name":"Experience","values":[["9569/9569",0]],"displayMode":2,"progress":1}],"requirements":[{"name":"Level","values":[["10",0]],"displayMode":0},{"name":"Dex","values":[["18",0]],"displayMode":1}],"nextLevelRequirements":[{"name":"Level","values":[["13",0]],"displayMode":0},{"name":"Dex","values":[["22",0]],"displayMode":1},{"name":"Int","values":[["15",0]],"displayMode":1}],"secDescrText":"Summons an icy shield that protects against physical and fire damage. It drains your mana while active and at a faster rate while you are moving. When you have no mana left, the skill turns off. While active, it leaves a trail of ground ice which lasts for a short duration.","explicitMods":["Base duration is 1.10 seconds","6 Mana drained per second","Additional 28 Mana drained per second while moving","-5 Physical Damage taken when hit","-5 Fire Damage taken when hit"],"descrText":"Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.","frameType":4,"socket":2,"colour":"D","socketedItems":[]}]},{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Rings/Ring3.png?scale=1&w=1&h=1&v=bc351f5121b5d5d052733fa5be0f79ca3","support":true,"league":"Standard","sockets":[],"name":"Havoc Eye","typeLine":"Paua Ring","identified":true,"corrupted":false,"lockedToCharacter":false,"requirements":[{"name":"Level","values":[["8",0]],"displayMode":0}],"implicitMods":["+23 to maximum Mana"],"explicitMods":["+16 to Intelligence","+1 to all Attributes","+22 to maximum Mana","+2 Life gained for each Enemy hit by your Attacks"],"frameType":2,"x":0,"y":0,"inventoryId":"Ring2","socketedItems":[]},{"verified":false,"w":2,"h":2,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Armours/Shields/ShieldInt2.png?scale=1&w=2&h=2&v=f61607beff0c7673614474b800a091d93","support":true,"league":"Standard","sockets":[{"group":0,"attr":"I"}],"name":"","typeLine":"Healthy Yew Spirit Shield of the Cloud","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Chance to Block","values":[["24%",0]],"displayMode":0},{"name":"Energy Shield","values":[["11",0]],"displayMode":0}],"requirements":[{"name":"Level","values":[["21",0]],"displayMode":0},{"name":"Int","values":[["52",0]],"displayMode":1}],"implicitMods":["5% increased Spell Damage"],"explicitMods":["+17 to maximum Life","+10% to Lightning Resistance"],"frameType":1,"x":0,"y":0,"inventoryId":"Offhand2","socketedItems":[{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Spark.png?scale=1&w=1&h=1&v=89236db5fb81772a872247c191efc0a43","support":false,"sockets":[],"name":"","typeLine":"Spark","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Lightning, Projectile, Spell, Duration","values":[],"displayMode":0},{"name":"Level","values":[["7",0]],"displayMode":0},{"name":"Mana Cost","values":[["11",0]],"displayMode":0},{"name":"Cast Time","values":[["0.65 sec",0]],"displayMode":0},{"name":"Critical Strike Chance","values":[["5%",0]],"displayMode":0},{"name":"Damage Effectiveness","values":[["50%",0]],"displayMode":0}],"additionalProperties":[{"name":"Experience","values":[["50593/150439",0]],"displayMode":2,"progress":0.336302429438}],"requirements":[{"name":"Level","values":[["21",0]],"displayMode":0},{"name":"Int","values":[["52",0]],"displayMode":1}],"secDescrText":"Launches unpredictable sparks that move randomly until they hit an enemy or expire.","explicitMods":["Deals 2-44 Lightning Damage","2 additional Projectiles","Base duration is 1.50 seconds"],"descrText":"Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.","frameType":4,"socket":0,"colour":"I","socketedItems":[]}]},{"verified":false,"w":1,"h":2,"icon":"http://webcdn.pathofexile.com/gen/image/YTozOntpOjI7YTozOntz/OjE6ImYiO3M6Mjk6IkFy/dC8yREl0ZW1zL0ZsYXNr/cy9tYW5hZmxhc2szIjtz/OjI6InNwIjtkOjAuNjA4/NTE5MjY5Nzc2ODc2MzE0/ODE0NzI4NjMwMTUzNjk1/MTIxNDA3NTA4ODUwMDk3/NjU2MjU7czo1OiJsZXZl/bCI7aToxO31pOjE7aTo0/O2k6MDtpOjk7fQ,,/f713409122/Item.png","support":true,"league":"Standard","sockets":[],"name":"","typeLine":"Large Mana Flask","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Recovers %0 Mana over %1 Seconds","values":[["100",0],["7",0]],"displayMode":3},{"name":"Consumes %0 of %1 Charges on use","values":[["18",0],["50",0]],"displayMode":3},{"name":"Currently has %0 Charges","values":[["50",0]],"displayMode":3}],"requirements":[{"name":"Level","values":[["14",0]],"displayMode":0}],"descrText":"Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.","frameType":0,"x":2,"y":0,"inventoryId":"Flask","socketedItems":[]},{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Currency/CurrencyPortal.png?scale=1&stackSize=19&w=1&h=1&v=728696ea10d4fb1e789039debc5d8c3c3","support":true,"league":"Standard","sockets":[],"name":"","typeLine":"Portal Scroll","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Stack Size","values":[["19/40",0]],"displayMode":0}],"explicitMods":["Creates a portal to town"],"descrText":"Right click on this item to use it.\nShift click to unstack.","frameType":5,"x":0,"y":4,"inventoryId":"MainInventory","socketedItems":[]},{"verified":false,"w":1,"h":4,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/QuestItems/PoisonSpear.png?scale=1&w=1&h=4&v=44c6f4eccbce145730cb2651d47b72523","support":true,"league":"Standard","sockets":[],"name":"","typeLine":"Maligaro's Spike","identified":true,"corrupted":false,"lockedToCharacter":false,"flavourText":["Maligaro loved his tools, and took great\r","pains to keep them excruciatingly sharp."],"frameType":6,"x":11,"y":0,"inventoryId":"MainInventory","socketedItems":[]},{"verified":false,"w":2,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Belts/Belt2.png?scale=1&w=2&h=1&v=05d53adc2875453b6b6bb2652ee3d74d3","support":true,"league":"Standard","sockets":[],"name":"","typeLine":"Thorny Chain Belt of the Whelpling","identified":true,"corrupted":false,"lockedToCharacter":false,"implicitMods":["+10 to maximum Energy Shield"],"explicitMods":["+6% to Fire Resistance","Reflects 2 Physical Damage to Melee Attackers"],"frameType":1,"x":0,"y":0,"inventoryId":"Belt","socketedItems":[]},{"verified":false,"w":2,"h":2,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Armours/Shields/ShieldInt1.png?scale=1&w=2&h=2&v=e24278f35761b9fe9c7341e1215d59243","support":true,"league":"Standard","sockets":[{"group":0,"attr":"I"},{"group":0,"attr":"D"}],"name":"Sorrow Charm","typeLine":"Twig Spirit Shield","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Chance to Block","values":[["25%",1]],"displayMode":0},{"name":"Energy Shield","values":[["6",1]],"displayMode":0}],"requirements":[{"name":"Level","values":[["21",0]],"displayMode":0},{"name":"Int","values":[["52",0]],"displayMode":1}],"implicitMods":["10% increased Spell Damage"],"explicitMods":["33% increased Critical Strike Chance for Spells","24% increased Energy Shield","11% increased Stun Recovery","3% additional Block Chance"],"frameType":2,"x":0,"y":0,"inventoryId":"Offhand","socketedItems":[{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalSpark.png?scale=1&w=1&h=1&v=9640bd16d2fca53c63cfcc28383eaad93","support":false,"sockets":[],"name":"","typeLine":"Vaal Spark","identified":true,"corrupted":true,"lockedToCharacter":false,"properties":[{"name":"Lightning, Projectile, Vaal, Spell, Duration","values":[],"displayMode":0},{"name":"Level","values":[["7",0]],"displayMode":0},{"name":"Mana Cost","values":[["11",0]],"displayMode":0},{"name":"Souls Per Use","values":[["48",0]],"displayMode":0},{"name":"Can Store %0 Use","values":[["1",0]],"displayMode":3},{"name":"Cast Time","values":[["0.65 sec",0]],"displayMode":0},{"name":"Critical Strike Chance","values":[["4%",0]],"displayMode":0},{"name":"Damage Effectiveness","values":[["50%",0]],"displayMode":0}],"additionalProperties":[{"name":"Experience","values":[["56092/150439",0]],"displayMode":2,"progress":0.372855454683}],"requirements":[{"name":"Level","values":[["21",0]],"displayMode":0},{"name":"Int","values":[["52",0]],"displayMode":1}],"secDescrText":"Continuously launches unpredictable sparks in all directions that move randomly until they hit an enemy or expire.","explicitMods":["Deals 3-51 Lightning Damage","Base duration is 3.50 seconds","Fires 150 times in random directions"],"descrText":"Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.","frameType":4,"socket":0,"colour":"I","socketedItems":[]}]},{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/QuestItems/TriangleKey1.png?scale=1&w=1&h=1&v=c31543e357b0ce6e7b94e33a3631e4073","support":true,"league":"Standard","sockets":[],"name":"","typeLine":"Alira's Amulet","identified":true,"corrupted":false,"lockedToCharacter":false,"flavourText":["Segregated by treachery, this artefact\r","longs to be reunited with her sisters."],"frameType":6,"x":7,"y":4,"inventoryId":"MainInventory","socketedItems":[]},{"verified":false,"w":1,"h":2,"icon":"http://webcdn.pathofexile.com/gen/image/YTozOntpOjI7YTozOntz/OjE6ImYiO3M6Mjk6IkFy/dC8yREl0ZW1zL0ZsYXNr/cy9tYW5hZmxhc2syIjtz/OjI6InNwIjtkOjAuNjA4/NTE5MjY5Nzc2ODc2MzE0/ODE0NzI4NjMwMTUzNjk1/MTIxNDA3NTA4ODUwMDk3/NjU2MjU7czo1OiJsZXZl/bCI7aToxO31pOjE7aTo0/O2k6MDtpOjk7fQ,,/dabce61048/Item.png","support":true,"league":"Standard","sockets":[],"name":"","typeLine":"Medium Mana Flask","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Recovers %0 Mana over %1 Seconds","values":[["80",0],["6.5",0]],"displayMode":3},{"name":"Consumes %0 of %1 Charges on use","values":[["16",0],["45",0]],"displayMode":3},{"name":"Currently has %0 Charges","values":[["45",0]],"displayMode":3}],"requirements":[{"name":"Level","values":[["4",0]],"displayMode":0}],"descrText":"Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.","frameType":0,"x":3,"y":0,"inventoryId":"Flask","socketedItems":[]},{"verified":false,"w":1,"h":2,"icon":"http://webcdn.pathofexile.com/gen/image/YTozOntpOjI7YTozOntz/OjE6ImYiO3M6Mjk6IkFy/dC8yREl0ZW1zL0ZsYXNr/cy9saWZlZmxhc2s0Ijtz/OjI6InNwIjtkOjAuNjA4/NTE5MjY5Nzc2ODc2MzE0/ODE0NzI4NjMwMTUzNjk1/MTIxNDA3NTA4ODUwMDk3/NjU2MjU7czo1OiJsZXZl/bCI7ZDowLjk2ODc1O31p/OjE7aTo0O2k6MDtpOjk7/fQ,,/c63fbc84a2/Item.png","support":true,"league":"Standard","sockets":[],"name":"","typeLine":"Greater Life Flask","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Recovers %0 Life over %1 Seconds","values":[["385",0],["7",0]],"displayMode":3},{"name":"Consumes %0 of %1 Charges on use","values":[["10",0],["32",0]],"displayMode":3},{"name":"Currently has %0 Charges","values":[["31",0]],"displayMode":3}],"requirements":[{"name":"Level","values":[["18",0]],"displayMode":0}],"descrText":"Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.","frameType":0,"x":0,"y":0,"inventoryId":"Flask","socketedItems":[]},{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BlackGem.png?scale=1&w=1&h=1&v=08d8a56b40ce669637c93aade16166473","support":true,"league":"Standard","sockets":[],"name":"","typeLine":"Baleful Gem","identified":true,"corrupted":false,"lockedToCharacter":false,"flavourText":["The withering glare of corruption, made\r","corporeal and pellucid in crystal."],"frameType":6,"x":11,"y":4,"inventoryId":"MainInventory","socketedItems":[]},{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/QuestItems/TriangleKey2.png?scale=1&w=1&h=1&v=b122aae0564a44eb63cdbbcac66c4b7c3","support":true,"league":"Standard","sockets":[],"name":"","typeLine":"Kraityn's Amulet","identified":true,"corrupted":false,"lockedToCharacter":false,"flavourText":["While this artefact resonates with power,\r","it is simply a piece in a larger puzzle."],"frameType":6,"x":8,"y":4,"inventoryId":"MainInventory","socketedItems":[]},{"verified":false,"w":1,"h":2,"icon":"http://webcdn.pathofexile.com/gen/image/YTozOntpOjI7YTozOntz/OjE6ImYiO3M6Mjk6IkFy/dC8yREl0ZW1zL0ZsYXNr/cy9saWZlZmxhc2s0Ijtz/OjI6InNwIjtkOjAuNjA4/NTE5MjY5Nzc2ODc2MzE0/ODE0NzI4NjMwMTUzNjk1/MTIxNDA3NTA4ODUwMDk3/NjU2MjU7czo1OiJsZXZl/bCI7aToxO31pOjE7aTo0/O2k6MDtpOjk7fQ,,/44f7d0140b/Item.png","support":true,"league":"Standard","sockets":[],"name":"","typeLine":"Greater Life Flask","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Recovers %0 Life over %1 Seconds","values":[["385",0],["7",0]],"displayMode":3},{"name":"Consumes %0 of %1 Charges on use","values":[["10",0],["32",0]],"displayMode":3},{"name":"Currently has %0 Charges","values":[["32",0]],"displayMode":3}],"requirements":[{"name":"Level","values":[["18",0]],"displayMode":0}],"descrText":"Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.","frameType":0,"x":1,"y":0,"inventoryId":"Flask","socketedItems":[]},{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Currency/CurrencyAddModToMagic.png?scale=1&stackSize=1&w=1&h=1&v=97e63b85807f2419f4208482fd0b48593","support":true,"league":"Standard","sockets":[],"name":"","typeLine":"Orb of Augmentation","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Stack Size","values":[["1/30",0]],"displayMode":0}],"explicitMods":["Enchants a magic item with a new random property"],"descrText":"Right click this item then left click a magic item to apply it. Magic items can have up to two random properties.","frameType":5,"x":3,"y":4,"inventoryId":"MainInventory","socketedItems":[]},{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ShockwaveTotem.png?scale=1&w=1&h=1&v=241110bff96e067e447f055ed2a13b8d3","support":false,"league":"Standard","sockets":[],"name":"","typeLine":"Shockwave Totem","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Totem, Spell, AoE, Duration","values":[],"displayMode":0},{"name":"Level","values":[["1",0]],"displayMode":0},{"name":"Mana Cost","values":[["20",0]],"displayMode":0},{"name":"Cast Time","values":[["0.6 sec",0]],"displayMode":0},{"name":"Critical Strike Chance","values":[["4%",0]],"displayMode":0},{"name":"Damage Effectiveness","values":[["50%",0]],"displayMode":0}],"additionalProperties":[{"name":"Experience","values":[["1/9569",0]],"displayMode":2,"progress":0.000104504128103}],"requirements":[{"name":"Level","values":[["10",0]],"displayMode":0},{"name":"Str","values":[["29",0]],"displayMode":1}],"secDescrText":"Summons a totem that shakes the earth around it, knocking back and damaging nearby enemies","explicitMods":["Deals 4-9 Physical Damage","Totem lasts 8 seconds","Summons a Totem which uses this Skill","Knocks enemies Back on Hit"],"descrText":"Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.","frameType":4,"x":0,"y":3,"inventoryId":"MainInventory","socketedItems":[]},{"verified":false,"w":1,"h":3,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter1.png?scale=1&w=1&h=3&v=356753f5a758b86f021937373f0215503","support":true,"league":"Standard","sockets":[{"group":0,"attr":"I"},{"group":1,"attr":"S"}],"name":"","typeLine":"Driftwood Sceptre","identified":false,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"One Handed Mace","values":[],"displayMode":0},{"name":"Physical Damage","values":[["4-6",0]],"displayMode":0},{"name":"Critical Strike Chance","values":[["6.5%",0]],"displayMode":0},{"name":"Attacks per Second","values":[["1.40",0]],"displayMode":0}],"implicitMods":["10% increased Elemental Damage"],"frameType":2,"x":0,"y":0,"inventoryId":"MainInventory","socketedItems":[]},{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Currency/CurrencyUpgradeToMagic.png?scale=1&stackSize=7&w=1&h=1&v=333b8b5e28b73c62972fc66e7634c5c83","support":true,"league":"Standard","sockets":[],"name":"","typeLine":"Orb of Transmutation","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Stack Size","values":[["7/40",0]],"displayMode":0}],"explicitMods":["Upgrades a normal item to a magic item"],"descrText":"Right click this item then left click a normal item to apply it.\nShift click to unstack.","frameType":5,"x":2,"y":4,"inventoryId":"MainInventory","socketedItems":[]},{"verified":false,"w":2,"h":2,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Armours/Boots/Wanderlust.png?scale=1&w=2&h=2&v=0ff39442b18a833e6f12db84fac2c28c3","support":true,"league":"Standard","sockets":[{"group":0,"attr":"I"},{"group":0,"attr":"I"},{"group":0,"attr":"S"}],"name":"Wanderlust","typeLine":"Wool Shoes","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Energy Shield","values":[["23",1]],"displayMode":0}],"requirements":[{"name":"Level","values":[["23",0]],"displayMode":0},{"name":"Int","values":[["56",0]],"displayMode":1}],"explicitMods":["+5 to Dexterity","30% increased Mana Regeneration Rate","+19 to maximum Energy Shield","20% increased Movement Speed","Cannot be Frozen"],"flavourText":["All the world is my home."],"frameType":3,"x":0,"y":0,"inventoryId":"Boots","socketedItems":[{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ColdSnap.png?scale=1&w=1&h=1&v=a956f407f4818d41d468abeaa702bc903","support":false,"sockets":[],"name":"","typeLine":"Cold Snap","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Cold, Spell, AoE","values":[],"displayMode":0},{"name":"Level","values":[["7",0]],"displayMode":0},{"name":"Mana Cost","values":[["17",0]],"displayMode":0},{"name":"Cooldown Time","values":[["4 sec",0]],"displayMode":0},{"name":"Cast Time","values":[["0.85 sec",0]],"displayMode":0},{"name":"Critical Strike Chance","values":[["4%",0]],"displayMode":0}],"additionalProperties":[{"name":"Experience","values":[["6692/199180",0]],"displayMode":2,"progress":0.0335977524519}],"requirements":[{"name":"Level","values":[["23",0]],"displayMode":0},{"name":"Int","values":[["56",0]],"displayMode":1}],"secDescrText":"Ice crystals protrude from the ground at target location. Monsters in this area take damage and become frozen. The cooldown can be bypassed by expending a Power Charge.","explicitMods":["Deals 39-59 Cold Damage","30% chance to Freeze enemies","30% increased Freeze Duration on enemies","110% increased Chill Duration on enemies"],"descrText":"Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.","frameType":4,"socket":0,"colour":"I","socketedItems":[]},{"verified":false,"w":1,"h":1,"icon":"http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Clarity.png?scale=1&w=1&h=1&v=f609c128e5ee053e773b391625757d6a3","support":false,"sockets":[],"name":"","typeLine":"Clarity","identified":true,"corrupted":false,"lockedToCharacter":false,"properties":[{"name":"Aura, Spell, AoE","values":[],"displayMode":0},{"name":"Level","values":[["5",0]],"displayMode":0},{"name":"Mana Reserved","values":[["160",0]],"displayMode":0},{"name":"Cooldown Time","values":[["0.5 sec",0]],"displayMode":0},{"name":"Cast Time","values":[["1.2 sec",0]],"displayMode":0}],"additionalProperties":[{"name":"Experience","values":[["29280/89302",0]],"displayMode":2,"progress":0.327876210213}],"requirements":[{"name":"Level","values":[["22",0]],"displayMode":0},{"name":"Int","values":[["54",0]],"displayMode":1}],"secDescrText":"Casts an aura that grants mana regeneration to you and your allies.","explicitMods":["12% increased Area of Effect radius","You and nearby allies regenerate 7 Mana per second"],"descrText":"Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.","frameType":4,"socket":1,"colour":"I","socketedItems":[]}]}],"character":{"class":3,"league":"Standard"}}
+{
+  "items": [
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Currency/CurrencyIdentification.png?scale=1&stackSize=12&w=1&h=1&v=1b9b38c45be95c59d8900f91b2afd58b3",
+      "support": true,
+      "league": "Standard",
+      "sockets": [],
+      "name": "",
+      "typeLine": "Scroll of Wisdom",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "12/40",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": ["Identifies an item"],
+      "descrText": "Right click this item then left click an unidentified item to apply it.\nShift click to unstack.",
+      "frameType": 5,
+      "x": 1,
+      "y": 4,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LightningWarp.png?scale=1&w=1&h=1&v=227de2fadd0ff1c98d6e3edcfacac9473",
+      "support": false,
+      "league": "Standard",
+      "sockets": [],
+      "name": "",
+      "typeLine": "Lightning Warp",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "properties": [
+        {
+          "name": "Lightning, Spell, AoE, Duration, Movement",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Level",
+          "values": [
+            [
+              "1",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Mana Cost",
+          "values": [
+            [
+              "22",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Cast Time",
+          "values": [
+            [
+              "1 sec",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5%",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "additionalProperties": [
+        {
+          "name": "Experience",
+          "values": [
+            [
+              "118383/118383",
+              0
+            ]
+          ],
+          "displayMode": 2,
+          "progress": 1
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "24",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "58",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "nextLevelRequirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "27",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "64",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "secDescrText": "Casts a delayed teleport to a target destination. When the teleport occurs, lightning damage is dealt to the area around both where the player was and where they teleported to.",
+      "explicitMods": ["Deals 3-51 Lightning Damage"],
+      "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+      "frameType": 4,
+      "x": 9,
+      "y": 4,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Amulets/Amulet4.png?scale=1&w=1&h=1&v=cc3ec167ca9ea10dfa05b2d55b5dcf623",
+      "support": true,
+      "league": "Standard",
+      "sockets": [],
+      "name": "",
+      "typeLine": "Reinforced Jade Amulet of the Sky",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "8",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": ["+28 to Dexterity"],
+      "explicitMods": [
+        "+8 to all Attributes",
+        "3% increased Armour"
+      ],
+      "frameType": 1,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Amulet",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Armours/Helmets/CrownofThorns.png?scale=1&w=2&h=2&v=4e8c66d75c7741e19a3d4d7a4376f2dc3",
+      "support": true,
+      "league": "Standard",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I"
+        },
+        {
+          "group": 0,
+          "attr": "S"
+        }
+      ],
+      "name": "Crown of Thorns",
+      "typeLine": "Vine Circlet",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "properties": [
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "72",
+              1
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "19",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "21",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "+65 to maximum Energy Shield",
+        "Reflects 5 Physical Damage to Melee Attackers",
+        "Take 5 Physical Damage when hit by Attacks",
+        "Pain Attunement"
+      ],
+      "flavourText": [
+        "Lift it lightly, don it slow.\r",
+        "The spikes point out and in, you know."
+      ],
+      "frameType": 3,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Helm",
+      "socketedItems": [
+        {
+          "verified": false,
+          "w": 1,
+          "h": 1,
+          "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/AssassinsMark.png?scale=1&w=1&h=1&v=8c4b5e92ec890630d572e4f48d930ca23",
+          "support": false,
+          "sockets": [],
+          "name": "",
+          "typeLine": "Assassin's Mark",
+          "identified": true,
+          "corrupted": false,
+          "lockedToCharacter": false,
+          "properties": [
+            {
+              "name": "Curse, Spell, AoE, Duration",
+              "values": [],
+              "displayMode": 0
+            },
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "1",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Mana Cost",
+              "values": [
+                [
+                  "26",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Cast Time",
+              "values": [
+                [
+                  "0.5 sec",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            }
+          ],
+          "additionalProperties": [
+            {
+              "name": "Experience",
+              "values": [
+                [
+                  "75910/81983",
+                  0
+                ]
+              ],
+              "displayMode": 2,
+              "progress": 0.925923645496
+            }
+          ],
+          "requirements": [
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "19",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Dex",
+              "values": [
+                [
+                  "21",
+                  0
+                ]
+              ],
+              "displayMode": 1
+            },
+            {
+              "name": "Int",
+              "values": [
+                [
+                  "30",
+                  0
+                ]
+              ],
+              "displayMode": 1
+            }
+          ],
+          "secDescrText": "Curses all targets in an area, making them more vulnerable to Critical Strikes. Killing the cursed targets will grant life and mana, and a chance to gain a power charge.",
+          "explicitMods": [
+            "Base duration is 6.00 seconds",
+            "Cursed enemies have a 20% chance to grant a Power Charge when slain",
+            "Cursed enemies have an additional 5% chance to receive a Critical Strike",
+            "Cursed enemies take 20% more extra damage from Critical Strikes",
+            "Cursed enemies grant 15 Life when Killed",
+            "Cursed enemies grant 15 Mana when Killed"
+          ],
+          "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+          "frameType": 4,
+          "socket": 0,
+          "colour": "I",
+          "socketedItems": []
+        }
+      ]
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Echo.png?scale=1&w=1&h=1&v=8c687a9247eff1393e4fe35d69838f723",
+      "support": true,
+      "league": "Standard",
+      "sockets": [],
+      "name": "",
+      "typeLine": "Spell Echo",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "properties": [
+        {
+          "name": "Spell, Support",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Level",
+          "values": [
+            [
+              "1",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Mana Multiplier",
+          "values": [
+            [
+              "130%",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "additionalProperties": [
+        {
+          "name": "Experience",
+          "values": [
+            [
+              "15602/179320",
+              0
+            ]
+          ],
+          "displayMode": 2,
+          "progress": 0.0870064720511
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "31",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "52",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "10% less Damage",
+        "Supported Spells Repeat an additional time",
+        "50% more Cast Speed"
+      ],
+      "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+      "frameType": 4,
+      "x": 10,
+      "y": 4,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Armours/Gloves/SadimasTouch.png?scale=1&w=2&h=2&v=cb90ee55ca2ea5dda2bada90614558ff3",
+      "support": true,
+      "league": "Standard",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D"
+        },
+        {
+          "group": 0,
+          "attr": "D"
+        },
+        {
+          "group": 0,
+          "attr": "I"
+        },
+        {
+          "group": 0,
+          "attr": "I"
+        }
+      ],
+      "name": "Sadima's Touch",
+      "typeLine": "Wool Gloves",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "properties": [
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "22",
+              1
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "21",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "37",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "52",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "Adds 4-8 Fire Damage",
+        "Adds 1-13 Lightning Damage",
+        "+18 to maximum Energy Shield",
+        "14% increased Quantity of Items found"
+      ],
+      "flavourText": ["Wealth unspent is wealth wasted."],
+      "frameType": 3,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Gloves",
+      "socketedItems": [
+        {
+          "verified": false,
+          "w": 1,
+          "h": 1,
+          "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Pierce.png?scale=1&w=1&h=1&v=3adf8484c5565e2f4b02dc1db98cd9db3",
+          "support": true,
+          "sockets": [],
+          "name": "",
+          "typeLine": "Pierce",
+          "identified": true,
+          "corrupted": false,
+          "lockedToCharacter": false,
+          "properties": [
+            {
+              "name": "Support, Projectile",
+              "values": [],
+              "displayMode": 0
+            },
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "1",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Mana Multiplier",
+              "values": [
+                [
+                  "110%",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            }
+          ],
+          "additionalProperties": [
+            {
+              "name": "Experience",
+              "values": [
+                [
+                  "75910/81983",
+                  0
+                ]
+              ],
+              "displayMode": 2,
+              "progress": 0.925923645496
+            }
+          ],
+          "requirements": [
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "19",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Dex",
+              "values": [
+                [
+                  "34",
+                  0
+                ]
+              ],
+              "displayMode": 1
+            }
+          ],
+          "explicitMods": ["40% chance of Projectiles Piercing"],
+          "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+          "frameType": 4,
+          "socket": 0,
+          "colour": "D",
+          "socketedItems": []
+        },
+        {
+          "verified": false,
+          "w": 1,
+          "h": 1,
+          "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Fork.png?scale=1&w=1&h=1&v=1c8109cba88e86566f29b68075f08da53",
+          "support": true,
+          "sockets": [],
+          "name": "",
+          "typeLine": "Fork",
+          "identified": true,
+          "corrupted": false,
+          "lockedToCharacter": false,
+          "properties": [
+            {
+              "name": "Support, Projectile",
+              "values": [],
+              "displayMode": 0
+            },
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "4",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Mana Multiplier",
+              "values": [
+                [
+                  "115%",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            }
+          ],
+          "additionalProperties": [
+            {
+              "name": "Experience",
+              "values": [
+                [
+                  "37116/77012",
+                  0
+                ]
+              ],
+              "displayMode": 2,
+              "progress": 0.481950879097
+            }
+          ],
+          "requirements": [
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "21",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Dex",
+              "values": [
+                [
+                  "37",
+                  0
+                ]
+              ],
+              "displayMode": 1
+            }
+          ],
+          "explicitMods": [
+            "6% increased Projectile Damage",
+            "Projectiles Fork",
+            "30% less Projectile Damage"
+          ],
+          "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+          "frameType": 4,
+          "socket": 1,
+          "colour": "D",
+          "socketedItems": []
+        },
+        {
+          "verified": false,
+          "w": 1,
+          "h": 1,
+          "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Spark.png?scale=1&w=1&h=1&v=89236db5fb81772a872247c191efc0a43",
+          "support": false,
+          "sockets": [],
+          "name": "",
+          "typeLine": "Spark",
+          "identified": true,
+          "corrupted": true,
+          "lockedToCharacter": false,
+          "properties": [
+            {
+              "name": "Lightning, Projectile, Spell, Duration",
+              "values": [],
+              "displayMode": 0
+            },
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "7",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Mana Cost",
+              "values": [
+                [
+                  "11",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Cast Time",
+              "values": [
+                [
+                  "0.65 sec",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Critical Strike Chance",
+              "values": [
+                [
+                  "5%",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Damage Effectiveness",
+              "values": [
+                [
+                  "50%",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            }
+          ],
+          "additionalProperties": [
+            {
+              "name": "Experience",
+              "values": [
+                [
+                  "56092/150439",
+                  0
+                ]
+              ],
+              "displayMode": 2,
+              "progress": 0.372855454683
+            }
+          ],
+          "requirements": [
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "21",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Int",
+              "values": [
+                [
+                  "52",
+                  0
+                ]
+              ],
+              "displayMode": 1
+            }
+          ],
+          "secDescrText": "Launches unpredictable sparks that move randomly until they hit an enemy or expire.",
+          "explicitMods": [
+            "Deals 2-44 Lightning Damage",
+            "2 additional Projectiles",
+            "Base duration is 1.50 seconds"
+          ],
+          "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+          "frameType": 4,
+          "socket": 2,
+          "colour": "I",
+          "socketedItems": []
+        },
+        {
+          "verified": false,
+          "w": 1,
+          "h": 1,
+          "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/PowerCharges.png?scale=1&w=1&h=1&v=702591e0dd6407a5ec5b38f74ccc0fff3",
+          "support": true,
+          "sockets": [],
+          "name": "",
+          "typeLine": "Power Charge On Critical",
+          "identified": true,
+          "corrupted": false,
+          "lockedToCharacter": false,
+          "properties": [
+            {
+              "name": "Support",
+              "values": [],
+              "displayMode": 0
+            },
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "1",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Mana Multiplier",
+              "values": [
+                [
+                  "110%",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            }
+          ],
+          "additionalProperties": [
+            {
+              "name": "Experience",
+              "values": [
+                [
+                  "75910/81983",
+                  0
+                ]
+              ],
+              "displayMode": 2,
+              "progress": 0.925923645496
+            }
+          ],
+          "requirements": [
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "19",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Int",
+              "values": [
+                [
+                  "34",
+                  0
+                ]
+              ],
+              "displayMode": 1
+            }
+          ],
+          "explicitMods": ["30% chance to gain a Power Charge on Critical Strike"],
+          "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+          "frameType": 4,
+          "socket": 3,
+          "colour": "I",
+          "socketedItems": []
+        }
+      ]
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Rings/TopazSapphire.png?scale=1&w=1&h=1&v=b7334698bf04b28f755467f256a3276b3",
+      "support": true,
+      "league": "Standard",
+      "sockets": [],
+      "name": "",
+      "typeLine": "Elreon's Two-Stone Ring",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "20",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": ["+16% to Cold and Lightning Resistances"],
+      "explicitMods": ["-8 to Mana Cost of Skills"],
+      "frameType": 1,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Ring",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "http://webcdn.pathofexile.com/gen/image/YTozOntpOjI7YTozOntz/OjE6ImYiO3M6MjU6IkFy/dC8yREl0ZW1zL0ZsYXNr/cy9zcHJpbnQiO3M6Mjoi/c3AiO2Q6MC42MDg1MTky/Njk3NzY4NzYzMTQ4MTQ3/Mjg2MzAxNTM2OTUxMjE0/MDc1MDg4NTAwOTc2NTYy/NTtzOjU6ImxldmVsIjtp/OjE7fWk6MTtpOjQ7aTow/O2k6OTt9/6446837133/Item.png",
+      "support": true,
+      "league": "Standard",
+      "sockets": [],
+      "name": "",
+      "typeLine": "Surgeon's Quicksilver Flask of Adrenaline",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "properties": [
+        {
+          "name": "Lasts %0 Seconds",
+          "values": [
+            [
+              "5",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes %0 of %1 Charges on use",
+          "values": [
+            [
+              "20",
+              0
+            ],
+            [
+              "50",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has %0 Charges",
+          "values": [
+            [
+              "50",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "",
+          "values": [
+            [
+              "40% increased Movement Speed",
+              1
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "6",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "21% increased Movement Speed during flask effect",
+        "Recharges 1 Charge when you deal a Critical Strike"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 1,
+      "x": 4,
+      "y": 0,
+      "inventoryId": "Flask",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 3,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/LifeSprig.png?scale=1&w=1&h=3&v=880d7682adb3ff4578306f526644abd73",
+      "support": true,
+      "league": "Standard",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D"
+        },
+        {
+          "group": 1,
+          "attr": "S"
+        },
+        {
+          "group": 2,
+          "attr": "D"
+        }
+      ],
+      "name": "Lifesprig",
+      "typeLine": "Driftwood Wand",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "properties": [
+        {
+          "name": "Wand",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "3-6",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "8%",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.43",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "10",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "18",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": ["8% increased Spell Damage"],
+      "explicitMods": [
+        "+1 to Level of Socketed Spell Gems",
+        "20% increased Spell Damage",
+        "6% increased Cast Speed",
+        "+20 to maximum Life",
+        "+15 to maximum Mana",
+        "Regenerate 6 Life over 1 second for each Spell you Cast"
+      ],
+      "flavourText": [
+        "From the smallest seeds\r",
+        "To the tallest redwoods,\r",
+        "Life endures in Wraeclast."
+      ],
+      "frameType": 3,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Weapon",
+      "socketedItems": [
+        {
+          "verified": false,
+          "w": 1,
+          "h": 1,
+          "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceShield.png?scale=1&w=1&h=1&v=ff757926265cc653abe8e2cbc151931c3",
+          "support": false,
+          "sockets": [],
+          "name": "",
+          "typeLine": "Arctic Armour",
+          "identified": true,
+          "corrupted": false,
+          "lockedToCharacter": false,
+          "properties": [
+            {
+              "name": "Cold, Spell, Duration",
+              "values": [],
+              "displayMode": 0
+            },
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "1",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Mana Reserved",
+              "values": [
+                [
+                  "0",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Cooldown Time",
+              "values": [
+                [
+                  "0.5 sec",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Cast Time",
+              "values": [
+                [
+                  "0.5 sec",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            }
+          ],
+          "additionalProperties": [
+            {
+              "name": "Experience",
+              "values": [
+                [
+                  "9569/9569",
+                  0
+                ]
+              ],
+              "displayMode": 2,
+              "progress": 1
+            }
+          ],
+          "requirements": [
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "10",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Dex",
+              "values": [
+                [
+                  "18",
+                  0
+                ]
+              ],
+              "displayMode": 1
+            }
+          ],
+          "nextLevelRequirements": [
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "13",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Dex",
+              "values": [
+                [
+                  "22",
+                  0
+                ]
+              ],
+              "displayMode": 1
+            },
+            {
+              "name": "Int",
+              "values": [
+                [
+                  "15",
+                  0
+                ]
+              ],
+              "displayMode": 1
+            }
+          ],
+          "secDescrText": "Summons an icy shield that protects against physical and fire damage. It drains your mana while active and at a faster rate while you are moving. When you have no mana left, the skill turns off. While active, it leaves a trail of ground ice which lasts for a short duration.",
+          "explicitMods": [
+            "Base duration is 1.10 seconds",
+            "6 Mana drained per second",
+            "Additional 28 Mana drained per second while moving",
+            "-5 Physical Damage taken when hit",
+            "-5 Fire Damage taken when hit"
+          ],
+          "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+          "frameType": 4,
+          "socket": 2,
+          "colour": "D",
+          "socketedItems": []
+        }
+      ]
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Rings/Ring3.png?scale=1&w=1&h=1&v=bc351f5121b5d5d052733fa5be0f79ca3",
+      "support": true,
+      "league": "Standard",
+      "sockets": [],
+      "name": "Havoc Eye",
+      "typeLine": "Paua Ring",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "8",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": ["+23 to maximum Mana"],
+      "explicitMods": [
+        "+16 to Intelligence",
+        "+1 to all Attributes",
+        "+22 to maximum Mana",
+        "+2 Life gained for each Enemy hit by your Attacks"
+      ],
+      "frameType": 2,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Ring2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Armours/Shields/ShieldInt2.png?scale=1&w=2&h=2&v=f61607beff0c7673614474b800a091d93",
+      "support": true,
+      "league": "Standard",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I"
+        }
+      ],
+      "name": "",
+      "typeLine": "Healthy Yew Spirit Shield of the Cloud",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "properties": [
+        {
+          "name": "Chance to Block",
+          "values": [
+            [
+              "24%",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "11",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "21",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "52",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": ["5% increased Spell Damage"],
+      "explicitMods": [
+        "+17 to maximum Life",
+        "+10% to Lightning Resistance"
+      ],
+      "frameType": 1,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Offhand2",
+      "socketedItems": [
+        {
+          "verified": false,
+          "w": 1,
+          "h": 1,
+          "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Spark.png?scale=1&w=1&h=1&v=89236db5fb81772a872247c191efc0a43",
+          "support": false,
+          "sockets": [],
+          "name": "",
+          "typeLine": "Spark",
+          "identified": true,
+          "corrupted": false,
+          "lockedToCharacter": false,
+          "properties": [
+            {
+              "name": "Lightning, Projectile, Spell, Duration",
+              "values": [],
+              "displayMode": 0
+            },
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "7",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Mana Cost",
+              "values": [
+                [
+                  "11",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Cast Time",
+              "values": [
+                [
+                  "0.65 sec",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Critical Strike Chance",
+              "values": [
+                [
+                  "5%",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Damage Effectiveness",
+              "values": [
+                [
+                  "50%",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            }
+          ],
+          "additionalProperties": [
+            {
+              "name": "Experience",
+              "values": [
+                [
+                  "50593/150439",
+                  0
+                ]
+              ],
+              "displayMode": 2,
+              "progress": 0.336302429438
+            }
+          ],
+          "requirements": [
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "21",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Int",
+              "values": [
+                [
+                  "52",
+                  0
+                ]
+              ],
+              "displayMode": 1
+            }
+          ],
+          "secDescrText": "Launches unpredictable sparks that move randomly until they hit an enemy or expire.",
+          "explicitMods": [
+            "Deals 2-44 Lightning Damage",
+            "2 additional Projectiles",
+            "Base duration is 1.50 seconds"
+          ],
+          "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+          "frameType": 4,
+          "socket": 0,
+          "colour": "I",
+          "socketedItems": []
+        }
+      ]
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "http://webcdn.pathofexile.com/gen/image/YTozOntpOjI7YTozOntz/OjE6ImYiO3M6Mjk6IkFy/dC8yREl0ZW1zL0ZsYXNr/cy9tYW5hZmxhc2szIjtz/OjI6InNwIjtkOjAuNjA4/NTE5MjY5Nzc2ODc2MzE0/ODE0NzI4NjMwMTUzNjk1/MTIxNDA3NTA4ODUwMDk3/NjU2MjU7czo1OiJsZXZl/bCI7aToxO31pOjE7aTo0/O2k6MDtpOjk7fQ,,/f713409122/Item.png",
+      "support": true,
+      "league": "Standard",
+      "sockets": [],
+      "name": "",
+      "typeLine": "Large Mana Flask",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "properties": [
+        {
+          "name": "Recovers %0 Mana over %1 Seconds",
+          "values": [
+            [
+              "100",
+              0
+            ],
+            [
+              "7",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes %0 of %1 Charges on use",
+          "values": [
+            [
+              "18",
+              0
+            ],
+            [
+              "50",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has %0 Charges",
+          "values": [
+            [
+              "50",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "14",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 2,
+      "y": 0,
+      "inventoryId": "Flask",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Currency/CurrencyPortal.png?scale=1&stackSize=19&w=1&h=1&v=728696ea10d4fb1e789039debc5d8c3c3",
+      "support": true,
+      "league": "Standard",
+      "sockets": [],
+      "name": "",
+      "typeLine": "Portal Scroll",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "19/40",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": ["Creates a portal to town"],
+      "descrText": "Right click on this item to use it.\nShift click to unstack.",
+      "frameType": 5,
+      "x": 0,
+      "y": 4,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 4,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/QuestItems/PoisonSpear.png?scale=1&w=1&h=4&v=44c6f4eccbce145730cb2651d47b72523",
+      "support": true,
+      "league": "Standard",
+      "sockets": [],
+      "name": "",
+      "typeLine": "Maligaro's Spike",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "flavourText": [
+        "Maligaro loved his tools, and took great\r",
+        "pains to keep them excruciatingly sharp."
+      ],
+      "frameType": 6,
+      "x": 11,
+      "y": 0,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Belts/Belt2.png?scale=1&w=2&h=1&v=05d53adc2875453b6b6bb2652ee3d74d3",
+      "support": true,
+      "league": "Standard",
+      "sockets": [],
+      "name": "",
+      "typeLine": "Thorny Chain Belt of the Whelpling",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "implicitMods": ["+10 to maximum Energy Shield"],
+      "explicitMods": [
+        "+6% to Fire Resistance",
+        "Reflects 2 Physical Damage to Melee Attackers"
+      ],
+      "frameType": 1,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Belt",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Armours/Shields/ShieldInt1.png?scale=1&w=2&h=2&v=e24278f35761b9fe9c7341e1215d59243",
+      "support": true,
+      "league": "Standard",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I"
+        },
+        {
+          "group": 0,
+          "attr": "D"
+        }
+      ],
+      "name": "Sorrow Charm",
+      "typeLine": "Twig Spirit Shield",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "properties": [
+        {
+          "name": "Chance to Block",
+          "values": [
+            [
+              "25%",
+              1
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "6",
+              1
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "21",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "52",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": ["10% increased Spell Damage"],
+      "explicitMods": [
+        "33% increased Critical Strike Chance for Spells",
+        "24% increased Energy Shield",
+        "11% increased Stun Recovery",
+        "3% additional Block Chance"
+      ],
+      "frameType": 2,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Offhand",
+      "socketedItems": [
+        {
+          "verified": false,
+          "w": 1,
+          "h": 1,
+          "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalSpark.png?scale=1&w=1&h=1&v=9640bd16d2fca53c63cfcc28383eaad93",
+          "support": false,
+          "sockets": [],
+          "name": "",
+          "typeLine": "Vaal Spark",
+          "identified": true,
+          "corrupted": true,
+          "lockedToCharacter": false,
+          "properties": [
+            {
+              "name": "Lightning, Projectile, Vaal, Spell, Duration",
+              "values": [],
+              "displayMode": 0
+            },
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "7",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Mana Cost",
+              "values": [
+                [
+                  "11",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Souls Per Use",
+              "values": [
+                [
+                  "48",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Can Store %0 Use",
+              "values": [
+                [
+                  "1",
+                  0
+                ]
+              ],
+              "displayMode": 3
+            },
+            {
+              "name": "Cast Time",
+              "values": [
+                [
+                  "0.65 sec",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Critical Strike Chance",
+              "values": [
+                [
+                  "4%",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Damage Effectiveness",
+              "values": [
+                [
+                  "50%",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            }
+          ],
+          "additionalProperties": [
+            {
+              "name": "Experience",
+              "values": [
+                [
+                  "56092/150439",
+                  0
+                ]
+              ],
+              "displayMode": 2,
+              "progress": 0.372855454683
+            }
+          ],
+          "requirements": [
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "21",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Int",
+              "values": [
+                [
+                  "52",
+                  0
+                ]
+              ],
+              "displayMode": 1
+            }
+          ],
+          "secDescrText": "Continuously launches unpredictable sparks in all directions that move randomly until they hit an enemy or expire.",
+          "explicitMods": [
+            "Deals 3-51 Lightning Damage",
+            "Base duration is 3.50 seconds",
+            "Fires 150 times in random directions"
+          ],
+          "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+          "frameType": 4,
+          "socket": 0,
+          "colour": "I",
+          "socketedItems": []
+        }
+      ]
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/QuestItems/TriangleKey1.png?scale=1&w=1&h=1&v=c31543e357b0ce6e7b94e33a3631e4073",
+      "support": true,
+      "league": "Standard",
+      "sockets": [],
+      "name": "",
+      "typeLine": "Alira's Amulet",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "flavourText": [
+        "Segregated by treachery, this artefact\r",
+        "longs to be reunited with her sisters."
+      ],
+      "frameType": 6,
+      "x": 7,
+      "y": 4,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "http://webcdn.pathofexile.com/gen/image/YTozOntpOjI7YTozOntz/OjE6ImYiO3M6Mjk6IkFy/dC8yREl0ZW1zL0ZsYXNr/cy9tYW5hZmxhc2syIjtz/OjI6InNwIjtkOjAuNjA4/NTE5MjY5Nzc2ODc2MzE0/ODE0NzI4NjMwMTUzNjk1/MTIxNDA3NTA4ODUwMDk3/NjU2MjU7czo1OiJsZXZl/bCI7aToxO31pOjE7aTo0/O2k6MDtpOjk7fQ,,/dabce61048/Item.png",
+      "support": true,
+      "league": "Standard",
+      "sockets": [],
+      "name": "",
+      "typeLine": "Medium Mana Flask",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "properties": [
+        {
+          "name": "Recovers %0 Mana over %1 Seconds",
+          "values": [
+            [
+              "80",
+              0
+            ],
+            [
+              "6.5",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes %0 of %1 Charges on use",
+          "values": [
+            [
+              "16",
+              0
+            ],
+            [
+              "45",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has %0 Charges",
+          "values": [
+            [
+              "45",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "4",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 3,
+      "y": 0,
+      "inventoryId": "Flask",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "http://webcdn.pathofexile.com/gen/image/YTozOntpOjI7YTozOntz/OjE6ImYiO3M6Mjk6IkFy/dC8yREl0ZW1zL0ZsYXNr/cy9saWZlZmxhc2s0Ijtz/OjI6InNwIjtkOjAuNjA4/NTE5MjY5Nzc2ODc2MzE0/ODE0NzI4NjMwMTUzNjk1/MTIxNDA3NTA4ODUwMDk3/NjU2MjU7czo1OiJsZXZl/bCI7ZDowLjk2ODc1O31p/OjE7aTo0O2k6MDtpOjk7/fQ,,/c63fbc84a2/Item.png",
+      "support": true,
+      "league": "Standard",
+      "sockets": [],
+      "name": "",
+      "typeLine": "Greater Life Flask",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "properties": [
+        {
+          "name": "Recovers %0 Life over %1 Seconds",
+          "values": [
+            [
+              "385",
+              0
+            ],
+            [
+              "7",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes %0 of %1 Charges on use",
+          "values": [
+            [
+              "10",
+              0
+            ],
+            [
+              "32",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has %0 Charges",
+          "values": [
+            [
+              "31",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "18",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Flask",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BlackGem.png?scale=1&w=1&h=1&v=08d8a56b40ce669637c93aade16166473",
+      "support": true,
+      "league": "Standard",
+      "sockets": [],
+      "name": "",
+      "typeLine": "Baleful Gem",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "flavourText": [
+        "The withering glare of corruption, made\r",
+        "corporeal and pellucid in crystal."
+      ],
+      "frameType": 6,
+      "x": 11,
+      "y": 4,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/QuestItems/TriangleKey2.png?scale=1&w=1&h=1&v=b122aae0564a44eb63cdbbcac66c4b7c3",
+      "support": true,
+      "league": "Standard",
+      "sockets": [],
+      "name": "",
+      "typeLine": "Kraityn's Amulet",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "flavourText": [
+        "While this artefact resonates with power,\r",
+        "it is simply a piece in a larger puzzle."
+      ],
+      "frameType": 6,
+      "x": 8,
+      "y": 4,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "http://webcdn.pathofexile.com/gen/image/YTozOntpOjI7YTozOntz/OjE6ImYiO3M6Mjk6IkFy/dC8yREl0ZW1zL0ZsYXNr/cy9saWZlZmxhc2s0Ijtz/OjI6InNwIjtkOjAuNjA4/NTE5MjY5Nzc2ODc2MzE0/ODE0NzI4NjMwMTUzNjk1/MTIxNDA3NTA4ODUwMDk3/NjU2MjU7czo1OiJsZXZl/bCI7aToxO31pOjE7aTo0/O2k6MDtpOjk7fQ,,/44f7d0140b/Item.png",
+      "support": true,
+      "league": "Standard",
+      "sockets": [],
+      "name": "",
+      "typeLine": "Greater Life Flask",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "properties": [
+        {
+          "name": "Recovers %0 Life over %1 Seconds",
+          "values": [
+            [
+              "385",
+              0
+            ],
+            [
+              "7",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes %0 of %1 Charges on use",
+          "values": [
+            [
+              "10",
+              0
+            ],
+            [
+              "32",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has %0 Charges",
+          "values": [
+            [
+              "32",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "18",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 1,
+      "y": 0,
+      "inventoryId": "Flask",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Currency/CurrencyAddModToMagic.png?scale=1&stackSize=1&w=1&h=1&v=97e63b85807f2419f4208482fd0b48593",
+      "support": true,
+      "league": "Standard",
+      "sockets": [],
+      "name": "",
+      "typeLine": "Orb of Augmentation",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "1/30",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": ["Enchants a magic item with a new random property"],
+      "descrText": "Right click this item then left click a magic item to apply it. Magic items can have up to two random properties.",
+      "frameType": 5,
+      "x": 3,
+      "y": 4,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ShockwaveTotem.png?scale=1&w=1&h=1&v=241110bff96e067e447f055ed2a13b8d3",
+      "support": false,
+      "league": "Standard",
+      "sockets": [],
+      "name": "",
+      "typeLine": "Shockwave Totem",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "properties": [
+        {
+          "name": "Totem, Spell, AoE, Duration",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Level",
+          "values": [
+            [
+              "1",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Mana Cost",
+          "values": [
+            [
+              "20",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Cast Time",
+          "values": [
+            [
+              "0.6 sec",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "4%",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Damage Effectiveness",
+          "values": [
+            [
+              "50%",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "additionalProperties": [
+        {
+          "name": "Experience",
+          "values": [
+            [
+              "1/9569",
+              0
+            ]
+          ],
+          "displayMode": 2,
+          "progress": 0.000104504128103
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "10",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "29",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "secDescrText": "Summons a totem that shakes the earth around it, knocking back and damaging nearby enemies",
+      "explicitMods": [
+        "Deals 4-9 Physical Damage",
+        "Totem lasts 8 seconds",
+        "Summons a Totem which uses this Skill",
+        "Knocks enemies Back on Hit"
+      ],
+      "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+      "frameType": 4,
+      "x": 0,
+      "y": 3,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 3,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter1.png?scale=1&w=1&h=3&v=356753f5a758b86f021937373f0215503",
+      "support": true,
+      "league": "Standard",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I"
+        },
+        {
+          "group": 1,
+          "attr": "S"
+        }
+      ],
+      "name": "",
+      "typeLine": "Driftwood Sceptre",
+      "identified": false,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "properties": [
+        {
+          "name": "One Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "4-6",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "6.5%",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.40",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": ["10% increased Elemental Damage"],
+      "frameType": 2,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Currency/CurrencyUpgradeToMagic.png?scale=1&stackSize=7&w=1&h=1&v=333b8b5e28b73c62972fc66e7634c5c83",
+      "support": true,
+      "league": "Standard",
+      "sockets": [],
+      "name": "",
+      "typeLine": "Orb of Transmutation",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "7/40",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": ["Upgrades a normal item to a magic item"],
+      "descrText": "Right click this item then left click a normal item to apply it.\nShift click to unstack.",
+      "frameType": 5,
+      "x": 2,
+      "y": 4,
+      "inventoryId": "MainInventory",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Armours/Boots/Wanderlust.png?scale=1&w=2&h=2&v=0ff39442b18a833e6f12db84fac2c28c3",
+      "support": true,
+      "league": "Standard",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I"
+        },
+        {
+          "group": 0,
+          "attr": "I"
+        },
+        {
+          "group": 0,
+          "attr": "S"
+        }
+      ],
+      "name": "Wanderlust",
+      "typeLine": "Wool Shoes",
+      "identified": true,
+      "corrupted": false,
+      "lockedToCharacter": false,
+      "properties": [
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "23",
+              1
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "23",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "56",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "+5 to Dexterity",
+        "30% increased Mana Regeneration Rate",
+        "+19 to maximum Energy Shield",
+        "20% increased Movement Speed",
+        "Cannot be Frozen"
+      ],
+      "flavourText": ["All the world is my home."],
+      "frameType": 3,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Boots",
+      "socketedItems": [
+        {
+          "verified": false,
+          "w": 1,
+          "h": 1,
+          "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ColdSnap.png?scale=1&w=1&h=1&v=a956f407f4818d41d468abeaa702bc903",
+          "support": false,
+          "sockets": [],
+          "name": "",
+          "typeLine": "Cold Snap",
+          "identified": true,
+          "corrupted": false,
+          "lockedToCharacter": false,
+          "properties": [
+            {
+              "name": "Cold, Spell, AoE",
+              "values": [],
+              "displayMode": 0
+            },
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "7",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Mana Cost",
+              "values": [
+                [
+                  "17",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Cooldown Time",
+              "values": [
+                [
+                  "4 sec",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Cast Time",
+              "values": [
+                [
+                  "0.85 sec",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Critical Strike Chance",
+              "values": [
+                [
+                  "4%",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            }
+          ],
+          "additionalProperties": [
+            {
+              "name": "Experience",
+              "values": [
+                [
+                  "6692/199180",
+                  0
+                ]
+              ],
+              "displayMode": 2,
+              "progress": 0.0335977524519
+            }
+          ],
+          "requirements": [
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "23",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Int",
+              "values": [
+                [
+                  "56",
+                  0
+                ]
+              ],
+              "displayMode": 1
+            }
+          ],
+          "secDescrText": "Ice crystals protrude from the ground at target location. Monsters in this area take damage and become frozen. The cooldown can be bypassed by expending a Power Charge.",
+          "explicitMods": [
+            "Deals 39-59 Cold Damage",
+            "30% chance to Freeze enemies",
+            "30% increased Freeze Duration on enemies",
+            "110% increased Chill Duration on enemies"
+          ],
+          "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+          "frameType": 4,
+          "socket": 0,
+          "colour": "I",
+          "socketedItems": []
+        },
+        {
+          "verified": false,
+          "w": 1,
+          "h": 1,
+          "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Clarity.png?scale=1&w=1&h=1&v=f609c128e5ee053e773b391625757d6a3",
+          "support": false,
+          "sockets": [],
+          "name": "",
+          "typeLine": "Clarity",
+          "identified": true,
+          "corrupted": false,
+          "lockedToCharacter": false,
+          "properties": [
+            {
+              "name": "Aura, Spell, AoE",
+              "values": [],
+              "displayMode": 0
+            },
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "5",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Mana Reserved",
+              "values": [
+                [
+                  "160",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Cooldown Time",
+              "values": [
+                [
+                  "0.5 sec",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Cast Time",
+              "values": [
+                [
+                  "1.2 sec",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            }
+          ],
+          "additionalProperties": [
+            {
+              "name": "Experience",
+              "values": [
+                [
+                  "29280/89302",
+                  0
+                ]
+              ],
+              "displayMode": 2,
+              "progress": 0.327876210213
+            }
+          ],
+          "requirements": [
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "22",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Int",
+              "values": [
+                [
+                  "54",
+                  0
+                ]
+              ],
+              "displayMode": 1
+            }
+          ],
+          "secDescrText": "Casts an aura that grants mana regeneration to you and your allies.",
+          "explicitMods": [
+            "12% increased Area of Effect radius",
+            "You and nearby allies regenerate 7 Mana per second"
+          ],
+          "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+          "frameType": 4,
+          "socket": 1,
+          "colour": "I",
+          "socketedItems": []
+        }
+      ]
+    }
+  ],
+  "character": {
+    "class": 3,
+    "league": "Standard"
+  }
+}

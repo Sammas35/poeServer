@@ -9,6 +9,11 @@
                 controller: 'charListCtrl',
                 controllerAs: 'vm'
             })
+            .when('/charlist/:charname', {
+                templateUrl: 'partials/charlist.html',
+                controller: 'charListCtrl',
+                controllerAs: 'vm'
+            })
             .when('/itemsearch', {
                 templateUrl: 'partials/itemsearch.html',
                 controller: 'itemsearchCtrl',

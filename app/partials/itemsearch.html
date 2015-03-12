@@ -25,7 +25,7 @@
                           | greaterEqual:'socketCount':vm.sockmin
                           | lowerEqual:'socketCount':vm.sockmax
                            ">
-            {{item.getName()}} ({{item.colour}}), {{item.charname}}, {{item.itemname}}
+            {{item.getName()}} ({{item.colour}}), <a ng-href="#/charlist/{{item.charname}}" >{{item.charname}}</a>, {{item.itemname}}
         </li>
     </ul>
     </div>

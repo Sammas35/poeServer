@@ -13,7 +13,13 @@
         // 
         var directive = {
             restrict: 'E',
-            templateUrl: 'views/poe-chardetail.html'
+            scope: {
+                char: '='
+            },
+            templateUrl: 'scripts/modules/core/directive/poe-chardetail.html'
+            //,
+            //controller : poeCharDetailCtrl,
+            //controllerAs : vm
         };
         return directive;
     }
