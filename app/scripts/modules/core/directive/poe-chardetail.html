@@ -5,7 +5,7 @@
     <li class="noindent" ng-repeat="item in char.items | filter:noInventory | filter:noFlask">
         <div class="row item">
             <div class="col-xs-6">
-                <span class="quality" ng-class="{standard: item.frameType==0 || item.frameType>3, magic: item.frameType==1, rare: item.frameType==2, unique: item.frameType==3}">
+                <span class="quality" poe-item="item.frameType">
                     {{item.name || item.typeLine }} ({{item.inventoryId}}) {{item.frameType}}
                 </span>
                 <br> Quality {{(item.getQuality())}}

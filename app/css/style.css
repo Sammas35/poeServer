@@ -11,17 +11,6 @@ ul {
     width: 500px;
 }
 
-
-.str {
-    color: red;
-}
-.dex {
-    color: green;
-}
-.int {
-    color: blue;
-}
-
 .gem {
     background-color: #ccc;
     margin: 2px;
@@ -30,8 +19,7 @@ ul {
 
 .quality{
 	background-color: #222;
-    margin: 2px;
-    padding: 2px;	
+    padding: 2px;
 }
 
 .standard{
@@ -45,6 +33,15 @@ ul {
 }
 .unique{
     color:#FFAC30;
+}
+.gem{
+    color:#E669E6;
+}
+.currency{
+    color:#FFAC30;
+}
+.quest{
+    color:#2b542c;
 }
 
 .item{
@@ -105,4 +102,14 @@ ul {
 .result{
     width:100%;
     float:left;
+}
+
+.str {
+    color: red;
+}
+.dex {
+    color: green;
+}
+.int {
+    color: blue;
 }

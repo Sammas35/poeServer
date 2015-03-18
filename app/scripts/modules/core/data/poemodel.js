@@ -9,6 +9,16 @@
             poemodel.getStashs = getStashs;
             poemodel.setCurrentChar = setCurrentChar;
             poemodel.currentChar = undefined;
+            poemodel.currentStash = undefined;
+            poemodel.setCurrentStash = setCurrentStash;
+
+            function setCurrentStash(stashname) {
+                var stash = _.find(poemodel.model.stashs, function (stash) {
+                    return stash.items[0] && stash.items[0].inventoryId == stashname;
+                });
+
+                poemodel.currentStash = stash;
+            }
 
             function setCurrentChar(charname) {
                 var char = _.find(poemodel.model.chars, function(char){

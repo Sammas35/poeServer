@@ -1,9 +1,24 @@
 <h2>Inventar</h2>
 
-{{vm.poemodel.model.stashs.length}}
-
-<ul>
-    <li ng-repeat="stash in vm.poemodel.model.stashs">
-        <span>{{stash.items[0].inventoryId}} {{stash.loadStatus}} {{stash.items.length}}</span>
-    </li>
-</ul>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-3">
+            <ul>
+                <li ng-repeat="stash in vm.poemodel.model.stashs">
+                    <span>
+                        <a href="" ng-href="#/stash/{{stash.items[0].inventoryId}}">{{stash.items[0].inventoryId}}</a>
+                        {{stash.loadStatus}}
+                    </span>
+                </li>
+            </ul>
+        </div>
+        <div class="col-lg-9">
+            <h3>{{vm.poemodel.currentStash.items[0].inventoryId}}</h3>
+            <ul>
+                <li ng-repeat="item in vm.poemodel.currentStash.items | orderBy:['name','typeLine']">
+                    <span class="quality" poe-item="item">{{item.name || item.typeLine}}</span> {{item.frameType}}
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

@@ -1,7 +1,7 @@
 <ul>
     <li ng-repeat="char in vm.poemodel.model.chars | orderBy:'name'">
         <div>
-            <a href="" data-toggle="collapse" data-parent="#charmain" ng-href="#/charlist/{{char.name}}">{{char.name}}</a>,
+            <a href="" ng-href="#/charlist/{{char.name}}">{{char.name}}</a>,
             {{char.class}} ({{char.level}})
             <span ng-show="char.loadStatus != 'done'">{{char.loadStatus}} </span>
             <span ng-show="char.loadStatus === 'done'"></span>

@@ -24,6 +24,11 @@
                 controller: 'stashCtrl',
                 controllerAs: 'vm'
             })
+            .when('/stash/:stashname', {
+                templateUrl: 'partials/stash.html',
+                controller: 'stashCtrl',
+                controllerAs: 'vm'
+            })
             .otherwise({
                 redirectTo: '/charlist'
             });
